@@ -1,0 +1,2649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-03-13T10:05:16Z"/>
+
+  <node id="249235041" lat="28.5922515" lon="77.0407464">
+    <tag k="name" v="Dwarka Sector 12"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="DSW"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249235042" lat="28.5970250" lon="77.0335556">
+    <tag k="name" v="Dwarka Sector 13"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="DSTN"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249235048" lat="28.6149318" lon="77.0227861">
+    <tag k="name" v="Dwarka (Blue Line)"/>
+    <tag k="name:hi" v="द्वारका"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="DW"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249823531" lat="28.6022340" lon="77.0259935">
+    <tag k="name" v="Dwarka Sector 14"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="DSFN"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q5317948"/>
+    <tag k="wikipedia" v="en:Dwarka Sector 14 metro station"/>
+  </node>
+  <node id="249823541" lat="28.6050854" lon="77.0234006"/>
+  <node id="249823542" lat="28.6078803" lon="77.0220491"/>
+  <node id="249823543" lat="28.6114379" lon="77.0218364"/>
+  <node id="249823544" lat="28.6127323" lon="77.0221172"/>
+  <node id="249823545" lat="28.6178126" lon="77.0236742"/>
+  <node id="249823548" lat="28.6193270" lon="77.0265477"/>
+  <node id="249823550" lat="28.6190372" lon="77.0305425"/>
+  <node id="249823552" lat="28.6192912" lon="77.0332835">
+    <tag k="name" v="Dwarka Mor"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="DM"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249823556" lat="28.6201524" lon="77.0388995"/>
+  <node id="249823558" lat="28.6202562" lon="77.0450835">
+    <tag k="name" v="Nawada"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249823559" lat="28.6205197" lon="77.0469795"/>
+  <node id="249823560" lat="28.6214036" lon="77.0538016"/>
+  <node id="249823566" lat="28.6217367" lon="77.0557191">
+    <tag k="name" v="Uttam Nagar West"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249823588" lat="28.6232868" lon="77.0614372"/>
+  <node id="249823589" lat="28.6258774" lon="77.0680991"/>
+  <node id="249823593" lat="28.6344882" lon="77.0912051"/>
+  <node id="249823595" lat="28.6356107" lon="77.0937714"/>
+  <node id="249823596" lat="28.6362031" lon="77.0956067"/>
+  <node id="249823599" lat="28.6370908" lon="77.0977118"/>
+  <node id="249823612" lat="28.6394436" lon="77.1025075"/>
+  <node id="249823619" lat="28.6418102" lon="77.1083625"/>
+  <node id="249823620" lat="28.6423827" lon="77.1096671"/>
+  <node id="249823623" lat="28.6443337" lon="77.1138986"/>
+  <node id="249823624" lat="28.6469882" lon="77.1179412"/>
+  <node id="249823627" lat="28.6473422" lon="77.1185849"/>
+  <node id="249823628" lat="28.6476435" lon="77.1192715"/>
+  <node id="249823630" lat="28.6490372" lon="77.1227430">
+    <tag k="name" v="Rajouri Garden (Blue Line)"/>
+    <tag k="name:hi" v="राजौरी गार्डन"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="249823634" lat="28.6517109" lon="77.1277430"/>
+  <node id="249823642" lat="28.6549101" lon="77.1372614"/>
+  <node id="249823644" lat="28.6584413" lon="77.1436990"/>
+  <node id="249823646" lat="28.6586367" lon="77.1444585"/>
+  <node id="249823647" lat="28.6578869" lon="77.1471854"/>
+  <node id="249823649" lat="28.6437838" lon="77.1713708"/>
+  <node id="249823650" lat="28.6420748" lon="77.1746545"/>
+  <node id="249823652" lat="28.6421276" lon="77.1760450"/>
+  <node id="249823663" lat="28.6452188" lon="77.1972274"/>
+  <node id="249823665" lat="28.6449175" lon="77.1985921"/>
+  <node id="249823666" lat="28.6430946" lon="77.2026519"/>
+  <node id="249823667" lat="28.6422477" lon="77.2038431"/>
+  <node id="268217251" lat="28.6426850" lon="77.1731010"/>
+  <node id="268217744" lat="28.6420522" lon="77.1752038"/>
+  <node id="280741118" lat="28.6451510" lon="77.1978968"/>
+  <node id="309641344" lat="28.6420085" lon="77.1744594"/>
+  <node id="309641654" lat="28.6459015" lon="77.1677619"/>
+  <node id="316376952" lat="28.6348121" lon="77.0920720"/>
+  <node id="316376953" lat="28.6352717" lon="77.0930333"/>
+  <node id="316376954" lat="28.6359195" lon="77.0946812"/>
+  <node id="316376977" lat="28.6381199" lon="77.0996429"/>
+  <node id="316376980" lat="28.6339684" lon="77.0892996"/>
+  <node id="345234440" lat="28.6424765" lon="77.1782794">
+    <tag k="name" v="Rajendra Place"/>
+    <tag k="name:kn" v="ರಾಜೇಂದ್ರ ಪ್ಯಾಲೇಸ್"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="345234443" lat="28.6442998" lon="77.1999053">
+    <tag k="name" v="Jhandewalan"/>
+    <tag k="name:kn" v="ಝಾಂಡೆವಾಲನ್"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="345238627" lat="28.6435616" lon="77.2015017"/>
+  <node id="345238683" lat="28.6428165" lon="77.2031419"/>
+  <node id="345238757" lat="28.6418287" lon="77.2042432"/>
+  <node id="345239144" lat="28.6409402" lon="77.2054671"/>
+  <node id="345240938" lat="28.6413692" lon="77.2047410"/>
+  <node id="345241070" lat="28.6425729" lon="77.2034898"/>
+  <node id="345241335" lat="28.6451506" lon="77.1965528"/>
+  <node id="345241679" lat="28.6423912" lon="77.1736417"/>
+  <node id="345241709" lat="28.6422029" lon="77.1741309"/>
+  <node id="345242802" lat="28.6420820" lon="77.1756210"/>
+  <node id="345242807" lat="28.6420568" lon="77.1749153"/>
+  <node id="345242812" lat="28.6421387" lon="77.1743801"/>
+  <node id="345243719" lat="28.6422933" lon="77.1738830"/>
+  <node id="347676395" lat="28.6586865" lon="77.1450915"/>
+  <node id="347676407" lat="28.6586340" lon="77.1455362"/>
+  <node id="347676414" lat="28.6582764" lon="77.1466153"/>
+  <node id="347676437" lat="28.6573220" lon="77.1480607"/>
+  <node id="347676473" lat="28.6566595" lon="77.1491537"/>
+  <node id="347676482" lat="28.6549845" lon="77.1518730"/>
+  <node id="347676511" lat="28.6543473" lon="77.1529729"/>
+  <node id="347676573" lat="28.6541843" lon="77.1533085"/>
+  <node id="347676587" lat="28.6536671" lon="77.1546405"/>
+  <node id="347676606" lat="28.6533908" lon="77.1552084"/>
+  <node id="347676617" lat="28.6531620" lon="77.1555849"/>
+  <node id="347677173" lat="28.6535833" lon="77.1347468"/>
+  <node id="347677194" lat="28.6537251" lon="77.1350961"/>
+  <node id="347677199" lat="28.6518616" lon="77.1282752"/>
+  <node id="347677258" lat="28.6514819" lon="77.1272023"/>
+  <node id="347677512" lat="28.6449212" lon="77.1149028"/>
+  <node id="347677528" lat="28.6465127" lon="77.1171742"/>
+  <node id="347677612" lat="28.6428121" lon="77.1108344"/>
+  <node id="347677623" lat="28.6431209" lon="77.1116498"/>
+  <node id="347677664" lat="28.6409364" lon="77.1064055"/>
+  <node id="347677759" lat="28.6376746" lon="77.0988696"/>
+  <node id="347677816" lat="28.6365265" lon="77.0964820">
+    <tag k="name" v="Tilak Nagar"/>
+    <tag k="name:hi" v="तिलक नगर"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/23)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q11318978"/>
+    <tag k="wikipedia" v="en:Tilak Nagar metro station"/>
+  </node>
+  <node id="347681793" lat="28.6455127" lon="77.1157913"/>
+  <node id="347682600" lat="28.6434223" lon="77.1122679"/>
+  <node id="347683209" lat="28.6387865" lon="77.1007631"/>
+  <node id="347684675" lat="28.6312238" lon="77.0822087"/>
+  <node id="347684704" lat="28.6286765" lon="77.0757988"/>
+  <node id="347684811" lat="28.6284398" lon="77.0751733"/>
+  <node id="347684813" lat="28.6281712" lon="77.0741789"/>
+  <node id="347684814" lat="28.6277794" lon="77.0730558"/>
+  <node id="347685176" lat="28.6248301" lon="77.0652972">
+    <tag k="name" v="Uttam Nagar East"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="347685192" lat="28.6295652" lon="77.0780939">
+    <tag k="name" v="Janakpuri West"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="JPW"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="347685759" lat="28.6222194" lon="77.0578100"/>
+  <node id="347685768" lat="28.6228938" lon="77.0603231"/>
+  <node id="347685830" lat="28.6209873" lon="77.0510171"/>
+  <node id="347685917" lat="28.6202861" lon="77.0402903"/>
+  <node id="347685935" lat="28.6202872" lon="77.0412247"/>
+  <node id="347685938" lat="28.6201573" lon="77.0433863"/>
+  <node id="347686359" lat="28.6191455" lon="77.0321098"/>
+  <node id="347686360" lat="28.6190437" lon="77.0309308"/>
+  <node id="347686365" lat="28.6190854" lon="77.0297239"/>
+  <node id="347686378" lat="28.6193124" lon="77.0260547"/>
+  <node id="347686389" lat="28.6190098" lon="77.0250083"/>
+  <node id="347686397" lat="28.6185686" lon="77.0243115"/>
+  <node id="347686399" lat="28.6173183" lon="77.0234468"/>
+  <node id="347686416" lat="28.6166608" lon="77.0232817"/>
+  <node id="347686714" lat="28.6120626" lon="77.0219270"/>
+  <node id="347686734" lat="28.6103944" lon="77.0218103"/>
+  <node id="347686774" lat="28.6093010" lon="77.0218207"/>
+  <node id="347686852" lat="28.6069118" lon="77.0223614"/>
+  <node id="347686892" lat="28.6058378" lon="77.0229120"/>
+  <node id="347686927" lat="28.6040797" lon="77.0242410"/>
+  <node id="347686951" lat="28.6012979" lon="77.0271956"/>
+  <node id="347687029" lat="28.5995345" lon="77.0298134"/>
+  <node id="554257820" lat="28.6392249" lon="77.2085684">
+    <tag k="name" v="Ramakrishna Ashram Marg"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="573237547" lat="28.6256045" lon="77.0673539"/>
+  <node id="573244390" lat="28.6192684" lon="77.0272641"/>
+  <node id="573244401" lat="28.6190456" lon="77.0302437"/>
+  <node id="573244425" lat="28.6190730" lon="77.0314768"/>
+  <node id="573244431" lat="28.6200103" lon="77.0378835"/>
+  <node id="573244443" lat="28.6223610" lon="77.0583878"/>
+  <node id="573244455" lat="28.6227052" lon="77.0596775"/>
+  <node id="573244462" lat="28.6242990" lon="77.0639558"/>
+  <node id="573244478" lat="28.6262510" lon="77.0691130"/>
+  <node id="573244480" lat="28.6303394" lon="77.0798717"/>
+  <node id="573244481" lat="28.6319633" lon="77.0840483"/>
+  <node id="573244494" lat="28.6367785" lon="77.0970444"/>
+  <node id="573244500" lat="28.6390072" lon="77.1013160"/>
+  <node id="573244516" lat="28.6461295" lon="77.1166375"/>
+  <node id="610886106" lat="28.6404628" lon="77.1052347">
+    <tag k="name" v="Subhash Nagar"/>
+    <tag k="name:hi" v="सुभाष नगर"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q7631236"/>
+  </node>
+  <node id="663798999" lat="28.6437288" lon="77.1128703">
+    <tag k="name" v="Tagore Garden"/>
+    <tag k="name:hi" v="टैगोर गार्डन"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q11316094"/>
+  </node>
+  <node id="663799200" lat="28.6326657" lon="77.0858331"/>
+  <node id="913550169" lat="28.6329889" lon="77.0867273">
+    <tag k="name" v="Janakpuri East"/>
+    <tag k="name:hi" v="जनकपुरी पूर्व"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q11309886"/>
+  </node>
+  <node id="915232192" lat="28.6519796" lon="77.1578923"/>
+  <node id="915232210" lat="28.6518262" lon="77.1577338"/>
+  <node id="915232228" lat="28.6513476" lon="77.1588700">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="915232255" lat="28.6511512" lon="77.1588833"/>
+  <node id="915232321" lat="28.6523683" lon="77.1571856"/>
+  <node id="915232333" lat="28.6522072" lon="77.1571251"/>
+  <node id="915274022" lat="28.6533396" lon="77.1340088"/>
+  <node id="915274168" lat="28.6534504" lon="77.1343907"/>
+  <node id="915274271" lat="28.6505315" lon="77.1255945"/>
+  <node id="915274334" lat="28.6531359" lon="77.1332478"/>
+  <node id="915274443" lat="28.6524795" lon="77.1307084"/>
+  <node id="915274519" lat="28.6493471" lon="77.1233910"/>
+  <node id="915274536" lat="28.6495104" lon="77.1237213"/>
+  <node id="941021442" lat="28.6486460" lon="77.1714722"/>
+  <node id="941021585" lat="28.6444889" lon="77.1922747"/>
+  <node id="941021975" lat="28.6425625" lon="77.1735728"/>
+  <node id="941156187" lat="28.6140669" lon="77.0225161"/>
+  <node id="1765244258" lat="28.6208115" lon="77.0494260"/>
+  <node id="1765244260" lat="28.6202496" lon="77.0419103"/>
+  <node id="1765244262" lat="28.6206255" lon="77.0479328"/>
+  <node id="1765244263" lat="28.6239348" lon="77.0630607"/>
+  <node id="1765244264" lat="28.6270926" lon="77.0712605"/>
+  <node id="1765244266" lat="28.6201705" lon="77.0430026"/>
+  <node id="1765244267" lat="28.6212493" lon="77.0529110"/>
+  <node id="1765244272" lat="28.6270136" lon="77.0710406"/>
+  <node id="1765244278" lat="28.6201717" lon="77.0439778"/>
+  <node id="1765244279" lat="28.6202193" lon="77.0446140"/>
+  <node id="1765244282" lat="28.6219755" lon="77.0566720"/>
+  <node id="1801084247" lat="28.6280198" lon="77.0736679"/>
+  <node id="1801084274" lat="28.6282886" lon="77.0746537"/>
+  <node id="1801084287" lat="28.6307081" lon="77.0807437"/>
+  <node id="1801084299" lat="28.6290502" lon="77.0767038"/>
+  <node id="1802087427" lat="28.6182225" lon="77.0239682"/>
+  <node id="1802087492" lat="28.6191987" lon="77.0254836"/>
+  <node id="1802087520" lat="28.6188156" lon="77.0246610"/>
+  <node id="1869716973" lat="28.6403887" lon="77.2066070"/>
+  <node id="1869899488" lat="28.6449937" lon="77.1695066"/>
+  <node id="2129318393" lat="28.6287517" lon="77.0759810"/>
+  <node id="2135857942" lat="28.6025851" lon="77.0255857"/>
+  <node id="2135857958" lat="28.6030748" lon="77.0251205"/>
+  <node id="2306481585" lat="28.6541876" lon="77.1357890"/>
+  <node id="2397564964" lat="28.6481587" lon="77.1678561"/>
+  <node id="2397564991" lat="28.6470143" lon="77.1669974"/>
+  <node id="2397565003" lat="28.6472642" lon="77.1671855"/>
+  <node id="2398081979" lat="28.6526554" lon="77.1641927"/>
+  <node id="2398081982" lat="28.6517915" lon="77.1656402"/>
+  <node id="2398081983" lat="28.6512205" lon="77.1605430"/>
+  <node id="2398081984" lat="28.6482787" lon="77.1649218"/>
+  <node id="2398081987" lat="28.6515833" lon="77.1641235"/>
+  <node id="2398081989" lat="28.6513090" lon="77.1664485"/>
+  <node id="2398081993" lat="28.6488559" lon="77.1645357"/>
+  <node id="2398081994" lat="28.6517887" lon="77.1644004"/>
+  <node id="2398081995" lat="28.6536690" lon="77.1624730"/>
+  <node id="2398081996" lat="28.6495898" lon="77.1626928"/>
+  <node id="2398081997" lat="28.6542897" lon="77.1687466"/>
+  <node id="2398081998" lat="28.6503854" lon="77.1619633"/>
+  <node id="2398082001" lat="28.6518044" lon="77.1637222"/>
+  <node id="2398082002" lat="28.6498158" lon="77.1640715"/>
+  <node id="2398082003" lat="28.6515987" lon="77.1647441"/>
+  <node id="2398082004" lat="28.6513392" lon="77.1645578"/>
+  <node id="2398082005" lat="28.6520322" lon="77.1669961"/>
+  <node id="2398082006" lat="28.6518622" lon="77.1643230"/>
+  <node id="2398082007" lat="28.6520833" lon="77.1639217"/>
+  <node id="2398082009" lat="28.6498582" lon="77.1628672"/>
+  <node id="2398082010" lat="28.6523249" lon="77.1614027"/>
+  <node id="2398082012" lat="28.6493246" lon="77.1637554"/>
+  <node id="2398082013" lat="28.6515292" lon="77.1642141"/>
+  <node id="2398082014" lat="28.6525048" lon="77.1583241"/>
+  <node id="2398083967" lat="28.6533252" lon="77.1630630"/>
+  <node id="2398083968" lat="28.6523162" lon="77.1647611"/>
+  <node id="2398083970" lat="28.6519742" lon="77.1619821"/>
+  <node id="2398083972" lat="28.6493074" lon="77.1648877"/>
+  <node id="2398083973" lat="28.6494057" lon="77.1625701"/>
+  <node id="2398083975" lat="28.6510868" lon="77.1637604"/>
+  <node id="2398083978" lat="28.6516094" lon="77.1629262"/>
+  <node id="2398083981" lat="28.6505609" lon="77.1646647"/>
+  <node id="2398083982" lat="28.6498109" lon="77.1615365"/>
+  <node id="2398083983" lat="28.6477265" lon="77.1675321"/>
+  <node id="2398083985" lat="28.6520787" lon="77.1620631"/>
+  <node id="2398083987" lat="28.6528339" lon="77.1638884"/>
+  <node id="2445987680" lat="28.6509248" lon="77.1595488"/>
+  <node id="2637094990" lat="28.6472587" lon="77.1653712"/>
+  <node id="2637094991" lat="28.6474142" lon="77.1654747"/>
+  <node id="2714309108" lat="28.6507661" lon="77.1696542"/>
+  <node id="2714309153" lat="28.6520457" lon="77.1668812"/>
+  <node id="2714309155" lat="28.6518441" lon="77.1657292"/>
+  <node id="2714309175" lat="28.6466614" lon="77.1667132"/>
+  <node id="2714309178" lat="28.6514386" lon="77.1664156"/>
+  <node id="2714309219" lat="28.6524511" lon="77.1661948"/>
+  <node id="3268514643" lat="28.6585121" lon="77.1461012"/>
+  <node id="3268514644" lat="28.6569481" lon="77.1486350"/>
+  <node id="3268514645" lat="28.6561797" lon="77.1499113"/>
+  <node id="3268515069" lat="28.6458335" lon="77.1617190"/>
+  <node id="3268515075" lat="28.6481073" lon="77.1639568"/>
+  <node id="3268515076" lat="28.6474091" lon="77.1629859"/>
+  <node id="3268515077" lat="28.6468350" lon="77.1622903"/>
+  <node id="3268515078" lat="28.6464995" lon="77.1620713"/>
+  <node id="3268515079" lat="28.6461930" lon="77.1618042"/>
+  <node id="3773128095" lat="28.6291846" lon="77.0770667"/>
+  <node id="3818760643" lat="28.6585482" lon="77.1440780"/>
+  <node id="3818760644" lat="28.6586862" lon="77.1447725"/>
+  <node id="3833894261" lat="28.6481056" lon="77.1633727"/>
+  <node id="3833894262" lat="28.6480341" lon="77.1634785"/>
+  <node id="3833894263" lat="28.6481631" lon="77.1635918"/>
+  <node id="3833894264" lat="28.6482346" lon="77.1634860"/>
+  <node id="3833894265" lat="28.6483491" lon="77.1633119"/>
+  <node id="3833894266" lat="28.6482564" lon="77.1634642"/>
+  <node id="3833894267" lat="28.6481864" lon="77.1634088"/>
+  <node id="3833894268" lat="28.6482791" lon="77.1632566"/>
+  <node id="3953397116" lat="28.6137762" lon="77.0223711"/>
+  <node id="4233858897" lat="28.6211142" lon="77.0519345"/>
+  <node id="4415510054" lat="28.6515235" lon="77.1600342"/>
+  <node id="5265277785" lat="28.6489567" lon="77.1666175"/>
+  <node id="5265277786" lat="28.6497664" lon="77.1652457"/>
+  <node id="5265277787" lat="28.6494073" lon="77.1669514"/>
+  <node id="5265277788" lat="28.6501711" lon="77.1655612"/>
+  <node id="5265277789" lat="28.6506005" lon="77.1658960"/>
+  <node id="5265277930" lat="28.6495525" lon="77.1670482"/>
+  <node id="5265277931" lat="28.6488813" lon="77.1665616"/>
+  <node id="5265277932" lat="28.6486275" lon="77.1681807"/>
+  <node id="5265277933" lat="28.6493370" lon="77.1668993"/>
+  <node id="5265277935" lat="28.6489893" lon="77.1671139"/>
+  <node id="5265277936" lat="28.6491510" lon="77.1672349"/>
+  <node id="5265277937" lat="28.6492301" lon="77.1677841"/>
+  <node id="5265277939" lat="28.6498266" lon="77.1671806"/>
+  <node id="5265277941" lat="28.6476968" lon="77.1697113"/>
+  <node id="5265277942" lat="28.6490227" lon="77.1676473"/>
+  <node id="5265277943" lat="28.6489553" lon="77.1676338"/>
+  <node id="5265280125" lat="28.6488260" lon="77.1678211"/>
+  <node id="5268135725" lat="28.6500617" lon="77.1670112"/>
+  <node id="5268135726" lat="28.6497383" lon="77.1674528"/>
+  <node id="5268135727" lat="28.6495207" lon="77.1673044"/>
+  <node id="5268135729" lat="28.6489872" lon="77.1682182"/>
+  <node id="5268135730" lat="28.6488412" lon="77.1683577"/>
+  <node id="5273050167" lat="28.6504607" lon="77.1673706"/>
+  <node id="5737167211" lat="28.6392594" lon="77.2085944">
+    <tag k="name" v="Ramakrishna Ashram Marg"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167212" lat="28.6404240" lon="77.2066316"/>
+  <node id="5737167213" lat="28.6409755" lon="77.2054917"/>
+  <node id="5737167214" lat="28.6414009" lon="77.2047716"/>
+  <node id="5737167215" lat="28.6418556" lon="77.2042791"/>
+  <node id="5737167216" lat="28.6422743" lon="77.2038791"/>
+  <node id="5737167217" lat="28.6426028" lon="77.2035224"/>
+  <node id="5737167218" lat="28.6428509" lon="77.2031684"/>
+  <node id="5737167219" lat="28.6431316" lon="77.2026728"/>
+  <node id="5737167220" lat="28.6435986" lon="77.2015226"/>
+  <node id="5737167621" lat="28.6443363" lon="77.1999274">
+    <tag k="name" v="Jhandewalan"/>
+    <tag k="name:kn" v="ಝಾಂಡೆವಾಲನ್"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167622" lat="28.6449551" lon="77.1986117"/>
+  <node id="5737167623" lat="28.6451914" lon="77.1979081"/>
+  <node id="5737167624" lat="28.6452604" lon="77.1972274"/>
+  <node id="5737167625" lat="28.6451915" lon="77.1965460"/>
+  <node id="5737167626" lat="28.6445297" lon="77.1922671"/>
+  <node id="5737167627" lat="28.6440313" lon="77.1885202">
+    <tag k="name" v="Karol Bagh"/>
+    <tag k="name:hi" v="करोल बाग"/>
+    <tag k="name:kn" v="ಕರೋಲ್ ಭಾಗ್"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167628" lat="28.6425172" lon="77.1782713">
+    <tag k="name" v="Rajendra Place"/>
+    <tag k="name:kn" v="ರಾಜೇಂದ್ರ ಪ್ಯಾಲೇಸ್"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167629" lat="28.6421685" lon="77.1760379"/>
+  <node id="5737167630" lat="28.6421231" lon="77.1756162"/>
+  <node id="5737167631" lat="28.6420935" lon="77.1752023"/>
+  <node id="5737167632" lat="28.6420981" lon="77.1749176"/>
+  <node id="5737167633" lat="28.6421157" lon="77.1746624"/>
+  <node id="5737167634" lat="28.6421785" lon="77.1743928"/>
+  <node id="5737167635" lat="28.6422419" lon="77.1741466"/>
+  <node id="5737167636" lat="28.6423311" lon="77.1739019"/>
+  <node id="5737167637" lat="28.6424276" lon="77.1736640"/>
+  <node id="5737167638" lat="28.6427196" lon="77.1731268"/>
+  <node id="5737167639" lat="28.6438178" lon="77.1713976"/>
+  <node id="5737167640" lat="28.6450294" lon="77.1692924">
+    <tag k="name" v="Patel Nagar"/>
+    <tag k="name:hi" v="पटेल नगर"/>
+    <tag k="name:kn" v="ಪಟೇಲ್ ನಗರ್"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167641" lat="28.6459357" lon="77.1677884"/>
+  <node id="5737167642" lat="28.6516006" lon="77.1582691">
+    <tag k="name" v="Shadipur"/>
+    <tag k="name:hi" v="शादीपुर"/>
+    <tag k="name:kn" v="ಷಾದಿಪುರ್"/>
+    <tag k="name:ur" v="شادی پور"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167643" lat="28.6531962" lon="77.1556113"/>
+  <node id="5737167644" lat="28.6534259" lon="77.1552333"/>
+  <node id="5737167645" lat="28.6537041" lon="77.1546615"/>
+  <node id="5737167646" lat="28.6542216" lon="77.1533289"/>
+  <node id="5737167647" lat="28.6543826" lon="77.1529976"/>
+  <node id="5737167648" lat="28.6550181" lon="77.1519004"/>
+  <node id="5737167649" lat="28.6557635" lon="77.1506769">
+    <tag k="name" v="Kirti Nagar (Blue Line)"/>
+    <tag k="name:hi" v="कीर्ति नगर"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167650" lat="28.6562134" lon="77.1499387"/>
+  <node id="5737167651" lat="28.6566932" lon="77.1491809"/>
+  <node id="5737167652" lat="28.6569822" lon="77.1486617"/>
+  <node id="5737167653" lat="28.6573552" lon="77.1480887"/>
+  <node id="5737167654" lat="28.6579204" lon="77.1472129"/>
+  <node id="5737167655" lat="28.6583117" lon="77.1466399"/>
+  <node id="5737167656" lat="28.6585510" lon="77.1461180"/>
+  <node id="5737167657" lat="28.6586746" lon="77.1455450"/>
+  <node id="5737167658" lat="28.6587278" lon="77.1450946"/>
+  <node id="5737167659" lat="28.6587275" lon="77.1447683"/>
+  <node id="5737167660" lat="28.6586771" lon="77.1444483"/>
+  <node id="5737167661" lat="28.6585869" lon="77.1440605"/>
+  <node id="5737167662" lat="28.6584776" lon="77.1436765"/>
+  <node id="5737167663" lat="28.6578775" lon="77.1424185">
+    <tag k="name" v="Moti Nagar"/>
+    <tag k="name:hi" v="मोती नगर"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167664" lat="28.6549455" lon="77.1372371"/>
+  <node id="5737167665" lat="28.6542222" lon="77.1357631"/>
+  <node id="5737167666" lat="28.6537607" lon="77.1350717"/>
+  <node id="5737167667" lat="28.6536211" lon="77.1347277"/>
+  <node id="5737167668" lat="28.6534891" lon="77.1343741"/>
+  <node id="5737167669" lat="28.6533790" lon="77.1339945"/>
+  <node id="5737167670" lat="28.6531755" lon="77.1332343"/>
+  <node id="5737167671" lat="28.6527646" lon="77.1316436">
+    <tag k="name" v="Ramesh Nagar"/>
+    <tag k="name:hi" v="रमेश नगर"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167672" lat="28.6525191" lon="77.1306952"/>
+  <node id="5737167673" lat="28.6519011" lon="77.1282614"/>
+  <node id="5737167674" lat="28.6517493" lon="77.1277255"/>
+  <node id="5737167675" lat="28.6515178" lon="77.1271788"/>
+  <node id="5737167676" lat="28.6505662" lon="77.1255689"/>
+  <node id="5737167677" lat="28.6495460" lon="77.1236973"/>
+  <node id="5737167678" lat="28.6493832" lon="77.1233682"/>
+  <node id="5737167679" lat="28.6490742" lon="77.1227219">
+    <tag k="name" v="Rajouri Garden (Blue Line)"/>
+    <tag k="name:hi" v="राजौरी गार्डन"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167680" lat="28.6476808" lon="77.1192512"/>
+  <node id="5737167681" lat="28.6473783" lon="77.1185618"/>
+  <node id="5737167682" lat="28.6470226" lon="77.1179151"/>
+  <node id="5737167683" lat="28.6465456" lon="77.1171457"/>
+  <node id="5737167684" lat="28.6461614" lon="77.1166076"/>
+  <node id="5737167685" lat="28.6455451" lon="77.1157620"/>
+  <node id="5737167686" lat="28.6449549" lon="77.1148755"/>
+  <node id="5737167687" lat="28.6443680" lon="77.1138724"/>
+  <node id="5737167688" lat="28.6437639" lon="77.1128454">
+    <tag k="name" v="Tagore Garden"/>
+    <tag k="name:hi" v="टैगोर गार्डन"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q11316094"/>
+  </node>
+  <node id="5737167689" lat="28.6434582" lon="77.1122447"/>
+  <node id="5737167690" lat="28.6431580" lon="77.1116290"/>
+  <node id="5737167691" lat="28.6428501" lon="77.1108160"/>
+  <node id="5737167692" lat="28.6424203" lon="77.1096475"/>
+  <node id="5737167693" lat="28.6418471" lon="77.1083413"/>
+  <node id="5737167694" lat="28.6409736" lon="77.1063850"/>
+  <node id="5737167695" lat="28.6405006" lon="77.1052156">
+    <tag k="name" v="Subhash Nagar"/>
+    <tag k="name:hi" v="सुभाष नगर"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q7631236"/>
+  </node>
+  <node id="5737167696" lat="28.6394817" lon="77.1024892"/>
+  <node id="5737167697" lat="28.6390451" lon="77.1012972"/>
+  <node id="5737167698" lat="28.6388227" lon="77.1007400"/>
+  <node id="5737167699" lat="28.6381543" lon="77.0996168"/>
+  <node id="5737167700" lat="28.6377098" lon="77.0988449"/>
+  <node id="5737167701" lat="28.6371269" lon="77.0976890"/>
+  <node id="5737167702" lat="28.6368151" lon="77.0970226"/>
+  <node id="5737167703" lat="28.6365640" lon="77.0964621">
+    <tag k="name" v="Tilak Nagar"/>
+    <tag k="name:hi" v="तिलक नगर"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/23)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q11318978"/>
+    <tag k="wikipedia" v="en:Tilak Nagar metro station"/>
+  </node>
+  <node id="5737167704" lat="28.6362417" lon="77.0955898"/>
+  <node id="5737167705" lat="28.6359583" lon="77.0946649"/>
+  <node id="5737167706" lat="28.6356484" lon="77.0937519"/>
+  <node id="5737167707" lat="28.6353081" lon="77.0930111"/>
+  <node id="5737167708" lat="28.6348493" lon="77.0920515"/>
+  <node id="5737167709" lat="28.6345270" lon="77.0911889"/>
+  <node id="5737167710" lat="28.6340072" lon="77.0892832"/>
+  <node id="5737167711" lat="28.6330270" lon="77.0867090">
+    <tag k="name" v="Janakpuri East"/>
+    <tag k="name:hi" v="जनकपुरी पूर्व"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q11309886"/>
+  </node>
+  <node id="5737167712" lat="28.6327037" lon="77.0858145"/>
+  <node id="5737167713" lat="28.6320009" lon="77.0840289"/>
+  <node id="5737167714" lat="28.6312618" lon="77.0821901"/>
+  <node id="5737167715" lat="28.6307459" lon="77.0807247"/>
+  <node id="5737167716" lat="28.6303765" lon="77.0798510"/>
+  <node id="5737167717" lat="28.6296028" lon="77.0780743">
+    <tag k="name" v="Janakpuri West"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="JPW"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167718" lat="28.6292227" lon="77.0770484"/>
+  <node id="5737167719" lat="28.6290879" lon="77.0766846"/>
+  <node id="5737167720" lat="28.6287891" lon="77.0759610"/>
+  <node id="5737167921" lat="28.6287142" lon="77.0757795"/>
+  <node id="5737167922" lat="28.6284785" lon="77.0751565"/>
+  <node id="5737167923" lat="28.6283281" lon="77.0746399"/>
+  <node id="5737167924" lat="28.6282107" lon="77.0741650"/>
+  <node id="5737167925" lat="28.6280583" lon="77.0736507"/>
+  <node id="5737167926" lat="28.6278172" lon="77.0730368"/>
+  <node id="5737167927" lat="28.6271307" lon="77.0712422"/>
+  <node id="5737167928" lat="28.6270516" lon="77.0710220"/>
+  <node id="5737167929" lat="28.6262889" lon="77.0690942"/>
+  <node id="5737167930" lat="28.6259155" lon="77.0680809"/>
+  <node id="5737167931" lat="28.6256426" lon="77.0673356"/>
+  <node id="5737167932" lat="28.6248679" lon="77.0652782">
+    <tag k="name" v="Uttam Nagar East"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167933" lat="28.6243366" lon="77.0639362"/>
+  <node id="5737167934" lat="28.6239724" lon="77.0630411"/>
+  <node id="5737167935" lat="28.6233248" lon="77.0614187"/>
+  <node id="5737167936" lat="28.6229326" lon="77.0603069"/>
+  <node id="5737167937" lat="28.6227446" lon="77.0596632"/>
+  <node id="5737167938" lat="28.6224007" lon="77.0583746"/>
+  <node id="5737167939" lat="28.6222594" lon="77.0577981"/>
+  <node id="5737167940" lat="28.6220155" lon="77.0566600"/>
+  <node id="5737167941" lat="28.6217769" lon="77.0557081">
+    <tag k="name" v="Uttam Nagar West"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167942" lat="28.6214441" lon="77.0537925"/>
+  <node id="5737167943" lat="28.6212900" lon="77.0529028"/>
+  <node id="5737167944" lat="28.6211550" lon="77.0519272"/>
+  <node id="5737167945" lat="28.6210282" lon="77.0510105"/>
+  <node id="5737167946" lat="28.6208525" lon="77.0494198"/>
+  <node id="5737167947" lat="28.6206665" lon="77.0479265"/>
+  <node id="5737167948" lat="28.6205606" lon="77.0469729"/>
+  <node id="5737167949" lat="28.6202972" lon="77.0450777">
+    <tag k="name" v="Nawada"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167950" lat="28.6202605" lon="77.0446099"/>
+  <node id="5737167951" lat="28.6202130" lon="77.0439751"/>
+  <node id="5737167952" lat="28.6201986" lon="77.0433866"/>
+  <node id="5737167953" lat="28.6202118" lon="77.0430055"/>
+  <node id="5737167954" lat="28.6202908" lon="77.0419137"/>
+  <node id="5737167955" lat="28.6203285" lon="77.0412261"/>
+  <node id="5737167956" lat="28.6203274" lon="77.0402877"/>
+  <node id="5737167957" lat="28.6201934" lon="77.0388932"/>
+  <node id="5737167958" lat="28.6200511" lon="77.0378759"/>
+  <node id="5737167959" lat="28.6197073" lon="77.0355417"/>
+  <node id="5737167960" lat="28.6193320" lon="77.0332758">
+    <tag k="name" v="Dwarka Mor"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="DM"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167961" lat="28.6191864" lon="77.0321035"/>
+  <node id="5737167962" lat="28.6191142" lon="77.0314723"/>
+  <node id="5737167963" lat="28.6190850" lon="77.0309289"/>
+  <node id="5737167964" lat="28.6190785" lon="77.0305428"/>
+  <node id="5737167965" lat="28.6190869" lon="77.0302465"/>
+  <node id="5737167966" lat="28.6191266" lon="77.0297279"/>
+  <node id="5737167967" lat="28.6193096" lon="77.0272683"/>
+  <node id="5737167968" lat="28.6193684" lon="77.0265491"/>
+  <node id="5737167969" lat="28.6193536" lon="77.0260486"/>
+  <node id="5737167970" lat="28.6192381" lon="77.0254685"/>
+  <node id="5737167971" lat="28.6190462" lon="77.0249858"/>
+  <node id="5737167972" lat="28.6188492" lon="77.0246335"/>
+  <node id="5737167973" lat="28.6185985" lon="77.0242787"/>
+  <node id="5737167974" lat="28.6182472" lon="77.0239303"/>
+  <node id="5737167975" lat="28.6178315" lon="77.0236321"/>
+  <node id="5737167976" lat="28.6173314" lon="77.0234020"/>
+  <node id="5737167977" lat="28.6166797" lon="77.0232339"/>
+  <node id="5737167978" lat="28.6149427" lon="77.0227407">
+    <tag k="name" v="Dwarka (Blue Line)"/>
+    <tag k="name:hi" v="द्वारका"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="DW"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167979" lat="28.6140742" lon="77.0224673"/>
+  <node id="5737167980" lat="28.6127461" lon="77.0220723"/>
+  <node id="5737167981" lat="28.6120694" lon="77.0218805"/>
+  <node id="5737167982" lat="28.6114410" lon="77.0217894"/>
+  <node id="5737167983" lat="28.6103947" lon="77.0217632"/>
+  <node id="5737167984" lat="28.6092979" lon="77.0217737"/>
+  <node id="5737167985" lat="28.6078717" lon="77.0220029"/>
+  <node id="5737167986" lat="28.6068976" lon="77.0223171"/>
+  <node id="5737167987" lat="28.6058190" lon="77.0228700"/>
+  <node id="5737167988" lat="28.6050629" lon="77.0233610"/>
+  <node id="5737167989" lat="28.6040549" lon="77.0242034"/>
+  <node id="5737167990" lat="28.6030490" lon="77.0250837"/>
+  <node id="5737167991" lat="28.6025570" lon="77.0255511"/>
+  <node id="5737167992" lat="28.6022038" lon="77.0259614">
+    <tag k="name" v="Dwarka Sector 14"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="DSFN"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737167993" lat="28.6012660" lon="77.0271656"/>
+  <node id="5737167994" lat="28.5995017" lon="77.0297848"/>
+  <node id="5737167995" lat="28.5969921" lon="77.0335271">
+    <tag k="name" v="Dwarka Sector 13"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="DSTN"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5737168034" lat="28.5922186" lon="77.0407179">
+    <tag k="name" v="Dwarka Sector 12"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="DSW"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="5834157601" lat="28.6482832" lon="77.1646499"/>
+  <node id="5834157602" lat="28.6481243" lon="77.1645225"/>
+  <node id="5834157603" lat="28.6481975" lon="77.1644041"/>
+  <node id="5834157604" lat="28.6483563" lon="77.1645315"/>
+  <node id="5834157605" lat="28.6481805" lon="77.1648113"/>
+  <node id="5834157606" lat="28.6480240" lon="77.1646866"/>
+  <node id="5834157607" lat="28.6481068" lon="77.1645516"/>
+  <node id="5834157608" lat="28.6482634" lon="77.1646763"/>
+  <node id="5834157609" lat="28.6480655" lon="77.1649227"/>
+  <node id="5834157610" lat="28.6479478" lon="77.1648274"/>
+  <node id="5834157611" lat="28.6480127" lon="77.1647233"/>
+  <node id="5834157612" lat="28.6481304" lon="77.1648185"/>
+  <node id="5834157613" lat="28.6480232" lon="77.1651764"/>
+  <node id="5834157614" lat="28.6478455" lon="77.1650369"/>
+  <node id="5834157615" lat="28.6479362" lon="77.1648869"/>
+  <node id="5834157616" lat="28.6481139" lon="77.1650264"/>
+  <node id="5834157625" lat="28.6480216" lon="77.1659247"/>
+  <node id="5834157626" lat="28.6484831" lon="77.1662666"/>
+  <node id="6225764860" lat="28.6510994" lon="77.1589697">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="6385542272" lat="28.6458330" lon="77.1681029"/>
+  <node id="6385542273" lat="28.6458996" lon="77.1679968">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="6385598116" lat="28.6509660" lon="77.1594826"/>
+  <node id="6385598123" lat="28.6508447" lon="77.1593943"/>
+  <node id="6385598130" lat="28.6482439" lon="77.1641051"/>
+  <node id="6385598147" lat="28.6485964" lon="77.1643816"/>
+  <node id="6547772111" lat="28.6527250" lon="77.1316569">
+    <tag k="name" v="Ramesh Nagar"/>
+    <tag k="name:hi" v="रमेश नगर"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="6547772112" lat="28.6578419" lon="77.1424425">
+    <tag k="name" v="Moti Nagar"/>
+    <tag k="name:hi" v="मोती नगर"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="6547772113" lat="28.6557294" lon="77.1506502">
+    <tag k="name" v="Kirti Nagar (Blue Line)"/>
+    <tag k="name:hi" v="कीर्ति नगर"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="6547772114" lat="28.6515664" lon="77.1582426">
+    <tag k="name" v="Shadipur"/>
+    <tag k="name:hi" v="शादीपुर"/>
+    <tag k="name:kn" v="ಷಾದಿಪುರ್"/>
+    <tag k="name:ur" v="شادی پور"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="6547772115" lat="28.6449953" lon="77.1692658">
+    <tag k="name" v="Patel Nagar"/>
+    <tag k="name:hi" v="पटेल नगर"/>
+    <tag k="name:kn" v="ಪಟೇಲ್ ನಗರ್"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="6547772123" lat="28.6439905" lon="77.1885276">
+    <tag k="name" v="Karol Bagh"/>
+    <tag k="name:hi" v="करोल बाग"/>
+    <tag k="name:kn" v="ಕರೋಲ್ ಭಾಗ್"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="6627388409" lat="28.6435011" lon="77.1720009"/>
+  <node id="6636540478" lat="28.6326399" lon="77.0856593"/>
+  <node id="6636622225" lat="28.6538366" lon="77.1683904"/>
+  <node id="6636622227" lat="28.6533952" lon="77.1680549"/>
+  <node id="6637164819" lat="28.6517387" lon="77.1675234"/>
+  <node id="6637164826" lat="28.6507525" lon="77.1692669"/>
+  <node id="6639560456" lat="28.6538696" lon="77.1672397"/>
+  <node id="6639560457" lat="28.6520999" lon="77.1639198"/>
+  <node id="6639560458" lat="28.6518195" lon="77.1636953"/>
+  <node id="6639560459" lat="28.6515454" lon="77.1641331"/>
+  <node id="6639560460" lat="28.6512801" lon="77.1645644"/>
+  <node id="6639560461" lat="28.6515740" lon="77.1647903"/>
+  <node id="6639560462" lat="28.6518335" lon="77.1643682"/>
+  <node id="6640436992" lat="28.6534680" lon="77.1628134"/>
+  <node id="6643522658" lat="28.6523048" lon="77.1581567"/>
+  <node id="6643522660" lat="28.6518373" lon="77.1595071"/>
+  <node id="6643522664" lat="28.6521581" lon="77.1589685"/>
+  <node id="6643522665" lat="28.6524416" lon="77.1615014"/>
+  <node id="6643522672" lat="28.6519900" lon="77.1611420"/>
+  <node id="6643522674" lat="28.6516655" lon="77.1608894"/>
+  <node id="6643522676" lat="28.6529018" lon="77.1618555"/>
+  <node id="6649114532" lat="28.6508579" lon="77.1611519"/>
+  <node id="6657074105" lat="28.6460161" lon="77.1617761"/>
+  <node id="6657074106" lat="28.6488170" lon="77.1627759"/>
+  <node id="6723549007" lat="28.6524900" lon="77.1673606"/>
+  <node id="6723549016" lat="28.6529674" lon="77.1665391"/>
+  <node id="6723549017" lat="28.6534150" lon="77.1668877"/>
+  <node id="6723549020" lat="28.6525225" lon="77.1662001"/>
+  <node id="6726388309" lat="28.6499582" lon="77.1669621"/>
+  <node id="6726388310" lat="28.6499734" lon="77.1669751"/>
+  <node id="6726388311" lat="28.6505880" lon="77.1683329"/>
+  <node id="6726388312" lat="28.6509117" lon="77.1677167"/>
+  <node id="6731683172" lat="28.6476114" lon="77.1632726"/>
+  <node id="6731683176" lat="28.6477368" lon="77.1635074"/>
+  <node id="6731683181" lat="28.6478495" lon="77.1636582"/>
+  <node id="6731683182" lat="28.6480292" lon="77.1634331"/>
+  <node id="6731683183" lat="28.6482398" lon="77.1631823"/>
+  <node id="6731683184" lat="28.6483340" lon="77.1630576"/>
+  <node id="6731685885" lat="28.6486704" lon="77.1626047"/>
+  <node id="6734870071" lat="28.6508078" lon="77.1667886"/>
+  <node id="6734870072" lat="28.6505735" lon="77.1666112"/>
+  <node id="6734870073" lat="28.6508603" lon="77.1661123"/>
+  <node id="6734870074" lat="28.6507160" lon="77.1663634"/>
+  <node id="6734870075" lat="28.6516459" lon="77.1670837"/>
+  <node id="6734870076" lat="28.6511854" lon="77.1667227"/>
+  <node id="6734870077" lat="28.6517969" lon="77.1668319"/>
+  <node id="6734870078" lat="28.6515010" lon="77.1673331"/>
+  <node id="6734870079" lat="28.6512685" lon="77.1671592"/>
+  <node id="6734870080" lat="28.6513339" lon="77.1664667"/>
+  <node id="6734870081" lat="28.6506868" lon="77.1675420"/>
+  <node id="6734870082" lat="28.6510397" lon="77.1669736"/>
+  <node id="6734870083" lat="28.6503006" lon="77.1664077"/>
+  <node id="6763955896" lat="28.6512598" lon="77.1586942"/>
+  <node id="6763955902" lat="28.6511770" lon="77.1588391"/>
+  <node id="6769014803" lat="28.6531711" lon="77.1620725"/>
+  <node id="8491223809" lat="28.6364158" lon="77.2134769"/>
+  <node id="8491223810" lat="28.6364479" lon="77.2135123"/>
+  <node id="9340252168" lat="28.6201695" lon="77.0438855"/>
+  <node id="9542979276" lat="28.6457399" lon="77.1682651">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="9542979281" lat="28.6486703" lon="77.1630199">
+    <tag k="crossing" v="unmarked;uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="9542979282" lat="28.6488277" lon="77.1631414">
+    <tag k="crossing" v="unmarked;uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="9567713782" lat="28.6499384" lon="77.1609020"/>
+  <node id="9650647189" lat="28.6503411" lon="77.1656902"/>
+  <node id="9650647190" lat="28.6507943" lon="77.1648511"/>
+  <node id="9650647191" lat="28.6502653" lon="77.1644294"/>
+  <node id="9650647192" lat="28.6500701" lon="77.1654825"/>
+  <node id="9650647193" lat="28.6500394" lon="77.1642495"/>
+  <node id="9650647194" lat="28.6497194" lon="77.1648204"/>
+  <node id="9650647195" lat="28.6508151" lon="77.1660747"/>
+  <node id="9650647196" lat="28.6512724" lon="77.1652287"/>
+  <node id="9650647197" lat="28.6501742" lon="77.1637447"/>
+  <node id="9650647198" lat="28.6500989" lon="77.1636908"/>
+  <node id="9650647199" lat="28.6500728" lon="77.1636578"/>
+  <node id="9650647200" lat="28.6500721" lon="77.1636120"/>
+  <node id="9650647201" lat="28.6503077" lon="77.1631940"/>
+  <node id="9650647202" lat="28.6503877" lon="77.1630508"/>
+  <node id="9650647203" lat="28.6504915" lon="77.1628789"/>
+  <node id="9650647204" lat="28.6505347" lon="77.1628306"/>
+  <node id="9650647205" lat="28.6505759" lon="77.1628202"/>
+  <node id="9650647206" lat="28.6506324" lon="77.1628416"/>
+  <node id="9650647207" lat="28.6507312" lon="77.1629167"/>
+  <node id="9650647208" lat="28.6508300" lon="77.1629971"/>
+  <node id="9650647209" lat="28.6508393" lon="77.1630306"/>
+  <node id="9650647210" lat="28.6513464" lon="77.1633291"/>
+  <node id="9679740911" lat="28.6499633" lon="77.1612455"/>
+  <node id="9699741669" lat="28.6329096" lon="77.0863843"/>
+  <node id="9805355412" lat="28.6468773" lon="77.1623141"/>
+  <node id="9854907497" lat="28.6463359" lon="77.1618984"/>
+  <node id="9854907498" lat="28.6462607" lon="77.1618288"/>
+  <node id="9854907499" lat="28.6465867" lon="77.1621503"/>
+  <node id="9854907500" lat="28.6465393" lon="77.1621140"/>
+  <node id="9854907501" lat="28.6469842" lon="77.1623948"/>
+  <node id="9854907502" lat="28.6469345" lon="77.1623470"/>
+  <node id="9854907503" lat="28.6469593" lon="77.1623666"/>
+  <node id="9854907504" lat="28.6477823" lon="77.1635799"/>
+  <node id="9854907505" lat="28.6476517" lon="77.1633388"/>
+  <node id="9854907506" lat="28.6476933" lon="77.1634236"/>
+  <node id="9854907507" lat="28.6477116" lon="77.1634613"/>
+  <node id="9854943526" lat="28.6462240" lon="77.1618122"/>
+  <node id="9854954712" lat="28.6502974" lon="77.1602981"/>
+  <node id="9855000977" lat="28.6492856" lon="77.1619928"/>
+  <node id="9855028782" lat="28.6478598" lon="77.1643693"/>
+  <node id="9855028787" lat="28.6477495" lon="77.1645531"/>
+  <node id="9855036780" lat="28.6512932" lon="77.1589574"/>
+  <node id="9855049055" lat="28.6503572" lon="77.1605531"/>
+  <node id="9855068365" lat="28.6503012" lon="77.1638276"/>
+  <node id="9855068366" lat="28.6503337" lon="77.1638378"/>
+  <node id="9855068367" lat="28.6503583" lon="77.1638264"/>
+  <node id="9855068368" lat="28.6504076" lon="77.1637728"/>
+  <node id="9855068369" lat="28.6506129" lon="77.1634159"/>
+  <node id="9855068370" lat="28.6508398" lon="77.1630146"/>
+  <node id="9855068371" lat="28.6508369" lon="77.1630045"/>
+  <node id="9855068372" lat="28.6505525" lon="77.1628227"/>
+  <node id="9855068373" lat="28.6506041" lon="77.1628264"/>
+  <node id="9855068374" lat="28.6500671" lon="77.1636364"/>
+  <node id="9855079454" lat="28.6517993" lon="77.1636964"/>
+  <node id="9855079455" lat="28.6518089" lon="77.1636943"/>
+  <node id="9855079456" lat="28.6520839" lon="77.1638792"/>
+  <node id="9855079457" lat="28.6520935" lon="77.1639452"/>
+  <node id="9855079458" lat="28.6520980" lon="77.1638984"/>
+  <node id="9855079459" lat="28.6515912" lon="77.1647821"/>
+  <node id="9855079460" lat="28.6515564" lon="77.1647832"/>
+  <node id="9855079461" lat="28.6512862" lon="77.1645814"/>
+  <node id="9855079462" lat="28.6512864" lon="77.1645430"/>
+  <node id="9865078024" lat="28.6474503" lon="77.1668757"/>
+  <node id="9865078025" lat="28.6482317" lon="77.1655749"/>
+  <node id="9865078029" lat="28.6507212" lon="77.1691651"/>
+  <node id="9865078030" lat="28.6498576" lon="77.1671553"/>
+  <node id="9865078031" lat="28.6497872" lon="77.1671816"/>
+  <node id="9865078032" lat="28.6489573" lon="77.1671072"/>
+  <node id="9865078033" lat="28.6489280" lon="77.1671183"/>
+  <node id="9865078034" lat="28.6486567" lon="77.1681561"/>
+  <node id="9865078036" lat="28.6485647" lon="77.1677351"/>
+  <node id="9865078038" lat="28.6483957" lon="77.1664128"/>
+  <node id="9865078041" lat="28.6491734" lon="77.1651118"/>
+  <node id="9865078047" lat="28.6496184" lon="77.1654977"/>
+  <node id="9865078053" lat="28.6492809" lon="77.1660725"/>
+  <node id="9865078059" lat="28.6499884" lon="77.1669132"/>
+  <node id="9865078067" lat="28.6510055" lon="77.1650061"/>
+  <node id="9865078068" lat="28.6505418" lon="77.1658441"/>
+  <node id="9867800445" lat="28.6523330" lon="77.1572490"/>
+  <node id="9938702760" lat="28.6135174" lon="77.0222960"/>
+  <node id="9938702761" lat="28.6132813" lon="77.0222813"/>
+  <node id="9938702762" lat="28.6132909" lon="77.0222303"/>
+  <node id="9938702763" lat="28.6135437" lon="77.0223596"/>
+  <node id="9938702765" lat="28.6137954" lon="77.0224349"/>
+  <node id="9938702767" lat="28.6162713" lon="77.0231180"/>
+  <node id="9938702768" lat="28.6159973" lon="77.0230915"/>
+  <node id="9938702769" lat="28.6160106" lon="77.0230439"/>
+  <node id="9938702770" lat="28.6162589" lon="77.0231665"/>
+  <node id="9949411633" lat="28.6135540" lon="77.0223066"/>
+  <node id="10248622322" lat="28.6470458" lon="77.1624805"/>
+  <node id="10248749014" lat="28.6446107" lon="77.1701468"/>
+  <node id="10248749016" lat="28.6447174" lon="77.1699685"/>
+  <node id="10248768983" lat="28.6439277" lon="77.1712886"/>
+  <node id="10248768985" lat="28.6436421" lon="77.1717662"/>
+  <node id="10272948657" lat="28.6530420" lon="77.1619685"/>
+  <node id="10272948660" lat="28.6525685" lon="77.1615991"/>
+  <node id="10272948695" lat="28.6504998" lon="77.1599638"/>
+  <node id="10272948696" lat="28.6501632" lon="77.1605239"/>
+  <node id="10272948698" lat="28.6501253" lon="77.1605876"/>
+  <node id="10272948708" lat="28.6490769" lon="77.1623415"/>
+  <node id="10567128512" lat="28.6520574" lon="77.1579556"/>
+  <node id="10815131304" lat="28.6496204" lon="77.1643638">
+    <tag k="name" v="Patel Nagar"/>
+    <tag k="place" v="suburb"/>
+    <tag k="wikidata" v="Q7144409"/>
+    <tag k="wikipedia" v="en:Patel Nagar"/>
+  </node>
+  <node id="10991726282" lat="28.6441380" lon="77.1709371"/>
+  <node id="11027157780" lat="28.6528920" lon="77.1676690"/>
+  <node id="11056086646" lat="28.6475713" lon="77.1648501"/>
+  <way id="77852919">
+    <nd ref="6385598130"/>
+    <nd ref="2637094991"/>
+    <nd ref="2714309175"/>
+    <nd ref="6385542273"/>
+    <nd ref="6385542272"/>
+    <nd ref="9542979276"/>
+    <nd ref="1869899488"/>
+    <nd ref="10248749016"/>
+    <nd ref="10248749014"/>
+    <nd ref="10991726282"/>
+    <nd ref="10248768983"/>
+    <nd ref="10248768985"/>
+    <nd ref="6627388409"/>
+    <nd ref="941021975"/>
+    <nd ref="309641344"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Patel Road"/>
+    <tag k="name:etymology:wikidata" v="Q9455"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="164931219">
+    <nd ref="249235041"/>
+    <nd ref="249235042"/>
+    <nd ref="347687029"/>
+    <nd ref="347686951"/>
+    <nd ref="249823531"/>
+    <nd ref="2135857942"/>
+    <nd ref="2135857958"/>
+    <nd ref="347686927"/>
+    <nd ref="249823541"/>
+    <nd ref="347686892"/>
+    <nd ref="347686852"/>
+    <nd ref="249823542"/>
+    <nd ref="347686774"/>
+    <nd ref="347686734"/>
+    <nd ref="249823543"/>
+    <nd ref="347686714"/>
+    <nd ref="249823544"/>
+    <nd ref="9938702761"/>
+    <nd ref="9938702763"/>
+    <nd ref="9938702765"/>
+    <nd ref="941156187"/>
+    <nd ref="249235048"/>
+    <nd ref="9938702768"/>
+    <nd ref="9938702770"/>
+    <nd ref="347686416"/>
+    <nd ref="347686399"/>
+    <nd ref="249823545"/>
+    <nd ref="1802087427"/>
+    <nd ref="347686397"/>
+    <nd ref="1802087520"/>
+    <nd ref="347686389"/>
+    <nd ref="1802087492"/>
+    <nd ref="347686378"/>
+    <nd ref="249823548"/>
+    <nd ref="573244390"/>
+    <nd ref="347686365"/>
+    <nd ref="573244401"/>
+    <nd ref="249823550"/>
+    <nd ref="347686360"/>
+    <nd ref="573244425"/>
+    <nd ref="347686359"/>
+    <nd ref="249823552"/>
+    <nd ref="573244431"/>
+    <nd ref="249823556"/>
+    <nd ref="347685917"/>
+    <nd ref="347685935"/>
+    <nd ref="1765244260"/>
+    <nd ref="1765244266"/>
+    <nd ref="347685938"/>
+    <nd ref="9340252168"/>
+    <nd ref="1765244278"/>
+    <nd ref="1765244279"/>
+    <nd ref="249823558"/>
+    <nd ref="249823559"/>
+    <nd ref="1765244262"/>
+    <nd ref="1765244258"/>
+    <nd ref="347685830"/>
+    <nd ref="4233858897"/>
+    <nd ref="1765244267"/>
+    <nd ref="249823560"/>
+    <nd ref="249823566"/>
+    <nd ref="1765244282"/>
+    <nd ref="347685759"/>
+    <nd ref="573244443"/>
+    <nd ref="573244455"/>
+    <nd ref="347685768"/>
+    <nd ref="249823588"/>
+    <nd ref="1765244263"/>
+    <nd ref="573244462"/>
+    <nd ref="347685176"/>
+    <nd ref="573237547"/>
+    <nd ref="249823589"/>
+    <nd ref="573244478"/>
+    <nd ref="1765244272"/>
+    <nd ref="1765244264"/>
+    <nd ref="347684814"/>
+    <nd ref="1801084247"/>
+    <nd ref="347684813"/>
+    <nd ref="1801084274"/>
+    <nd ref="347684811"/>
+    <nd ref="347684704"/>
+    <nd ref="2129318393"/>
+    <nd ref="1801084299"/>
+    <nd ref="3773128095"/>
+    <nd ref="347685192"/>
+    <nd ref="573244480"/>
+    <nd ref="1801084287"/>
+    <nd ref="347684675"/>
+    <nd ref="573244481"/>
+    <nd ref="663799200"/>
+    <nd ref="913550169"/>
+    <nd ref="316376980"/>
+    <nd ref="249823593"/>
+    <nd ref="316376952"/>
+    <nd ref="316376953"/>
+    <nd ref="249823595"/>
+    <nd ref="316376954"/>
+    <nd ref="249823596"/>
+    <nd ref="347677816"/>
+    <nd ref="573244494"/>
+    <nd ref="249823599"/>
+    <nd ref="347677759"/>
+    <nd ref="316376977"/>
+    <nd ref="347683209"/>
+    <nd ref="573244500"/>
+    <nd ref="249823612"/>
+    <nd ref="610886106"/>
+    <nd ref="347677664"/>
+    <nd ref="249823619"/>
+    <nd ref="249823620"/>
+    <nd ref="347677612"/>
+    <nd ref="347677623"/>
+    <nd ref="347682600"/>
+    <nd ref="663798999"/>
+    <nd ref="249823623"/>
+    <nd ref="347677512"/>
+    <nd ref="347681793"/>
+    <nd ref="573244516"/>
+    <nd ref="347677528"/>
+    <nd ref="249823624"/>
+    <nd ref="249823627"/>
+    <nd ref="249823628"/>
+    <nd ref="249823630"/>
+    <nd ref="915274519"/>
+    <nd ref="915274536"/>
+    <nd ref="915274271"/>
+    <nd ref="347677258"/>
+    <nd ref="249823634"/>
+    <nd ref="347677199"/>
+    <nd ref="915274443"/>
+    <nd ref="6547772111"/>
+    <nd ref="915274334"/>
+    <nd ref="915274022"/>
+    <nd ref="915274168"/>
+    <nd ref="347677173"/>
+    <nd ref="347677194"/>
+    <nd ref="2306481585"/>
+    <nd ref="249823642"/>
+    <nd ref="6547772112"/>
+    <nd ref="249823644"/>
+    <nd ref="3818760643"/>
+    <nd ref="249823646"/>
+    <nd ref="3818760644"/>
+    <nd ref="347676395"/>
+    <nd ref="347676407"/>
+    <nd ref="3268514643"/>
+    <nd ref="347676414"/>
+    <nd ref="249823647"/>
+    <nd ref="347676437"/>
+    <nd ref="3268514644"/>
+    <nd ref="347676473"/>
+    <nd ref="3268514645"/>
+    <nd ref="6547772113"/>
+    <nd ref="347676482"/>
+    <nd ref="347676511"/>
+    <nd ref="347676573"/>
+    <nd ref="347676587"/>
+    <nd ref="347676606"/>
+    <nd ref="347676617"/>
+    <nd ref="6547772114"/>
+    <nd ref="309641654"/>
+    <nd ref="6547772115"/>
+    <nd ref="249823649"/>
+    <nd ref="268217251"/>
+    <nd ref="345241679"/>
+    <nd ref="345243719"/>
+    <nd ref="345241709"/>
+    <nd ref="345242812"/>
+    <nd ref="249823650"/>
+    <nd ref="345242807"/>
+    <nd ref="268217744"/>
+    <nd ref="345242802"/>
+    <nd ref="249823652"/>
+    <nd ref="345234440"/>
+    <nd ref="6547772123"/>
+    <nd ref="941021585"/>
+    <nd ref="345241335"/>
+    <nd ref="249823663"/>
+    <nd ref="280741118"/>
+    <nd ref="249823665"/>
+    <nd ref="345234443"/>
+    <nd ref="345238627"/>
+    <nd ref="249823666"/>
+    <nd ref="345238683"/>
+    <nd ref="345241070"/>
+    <nd ref="249823667"/>
+    <nd ref="345238757"/>
+    <nd ref="345240938"/>
+    <nd ref="345239144"/>
+    <nd ref="1869716973"/>
+    <nd ref="554257820"/>
+    <nd ref="8491223809"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="colour" v="#1e90ff"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="50"/>
+    <tag k="gauge" v="1676"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="Blue Line"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="railway" v="subway"/>
+    <tag k="voltage" v="25000"/>
+  </way>
+  <way id="231414755">
+    <nd ref="2398082012"/>
+    <nd ref="2398082002"/>
+    <nd ref="9650647193"/>
+    <nd ref="9650647191"/>
+    <nd ref="2398083981"/>
+    <nd ref="9650647190"/>
+    <nd ref="9865078067"/>
+    <nd ref="9650647196"/>
+    <nd ref="2398081982"/>
+    <nd ref="6723549020"/>
+    <nd ref="6723549016"/>
+    <nd ref="6723549017"/>
+    <nd ref="6639560456"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="231414757">
+    <nd ref="2398082007"/>
+    <nd ref="2398082006"/>
+    <nd ref="2398081987"/>
+    <nd ref="2398082001"/>
+    <nd ref="2398082007"/>
+    <tag k="leisure" v="park"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="231414758">
+    <nd ref="2398081993"/>
+    <nd ref="2398083972"/>
+    <nd ref="5265277786"/>
+    <nd ref="9650647192"/>
+    <nd ref="5265277788"/>
+    <nd ref="9650647189"/>
+    <nd ref="9865078068"/>
+    <nd ref="5265277789"/>
+    <nd ref="9650647195"/>
+    <nd ref="6734870073"/>
+    <nd ref="2398081989"/>
+    <nd ref="2398081982"/>
+    <nd ref="2398083968"/>
+    <nd ref="2398081979"/>
+    <nd ref="2398083987"/>
+    <nd ref="2398083967"/>
+    <nd ref="6640436992"/>
+    <nd ref="2398081995"/>
+    <nd ref="6769014803"/>
+    <nd ref="10272948657"/>
+    <nd ref="6643522676"/>
+    <nd ref="10272948660"/>
+    <nd ref="6643522665"/>
+    <nd ref="2398082010"/>
+    <nd ref="6643522672"/>
+    <nd ref="6643522674"/>
+    <nd ref="2398081983"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="231414761">
+    <nd ref="2398081994"/>
+    <nd ref="2398082003"/>
+    <nd ref="2398082004"/>
+    <nd ref="2398082013"/>
+    <nd ref="2398081994"/>
+    <tag k="leisure" v="park"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="231414762">
+    <nd ref="2398081997"/>
+    <nd ref="6636622225"/>
+    <nd ref="6636622227"/>
+    <nd ref="11027157780"/>
+    <nd ref="6723549007"/>
+    <nd ref="2398082005"/>
+    <nd ref="6734870077"/>
+    <nd ref="6734870080"/>
+    <nd ref="2398081989"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="231414763">
+    <nd ref="10567128512"/>
+    <nd ref="6643522658"/>
+    <nd ref="2398082014"/>
+    <nd ref="6643522664"/>
+    <nd ref="6643522660"/>
+    <nd ref="4415510054"/>
+    <nd ref="2398081983"/>
+    <nd ref="6649114532"/>
+    <nd ref="2398081998"/>
+    <nd ref="2398082009"/>
+    <nd ref="2398082012"/>
+    <nd ref="2398081993"/>
+    <nd ref="9865078025"/>
+    <nd ref="5834157625"/>
+    <nd ref="9865078024"/>
+    <nd ref="2397565003"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Balraj Khanna Marg"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="231414764">
+    <nd ref="2398081996"/>
+    <nd ref="6385598147"/>
+    <nd ref="2398081984"/>
+    <nd ref="2397564991"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="231414997">
+    <nd ref="2398082010"/>
+    <nd ref="2398083970"/>
+    <nd ref="2398083985"/>
+    <nd ref="2398083978"/>
+    <nd ref="9650647210"/>
+    <nd ref="2398083975"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="231414998">
+    <nd ref="2398082002"/>
+    <nd ref="2398083972"/>
+    <nd ref="9865078041"/>
+    <nd ref="5834157626"/>
+    <nd ref="9865078038"/>
+    <nd ref="2398083983"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Balraj Khanna Marg"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="231415002">
+    <nd ref="2398083973"/>
+    <nd ref="2398081996"/>
+    <nd ref="2398082009"/>
+    <nd ref="9650647201"/>
+    <nd ref="9855068369"/>
+    <nd ref="2398083975"/>
+    <nd ref="6639560459"/>
+    <nd ref="6639560462"/>
+    <nd ref="2398083968"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="231415004">
+    <nd ref="2398083981"/>
+    <nd ref="2398083975"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="265804047">
+    <nd ref="2714309155"/>
+    <nd ref="2714309178"/>
+    <nd ref="2714309153"/>
+    <nd ref="2714309219"/>
+    <nd ref="2714309155"/>
+    <tag k="leisure" v="park"/>
+  </way>
+  <way id="279501943">
+    <nd ref="6726388309"/>
+    <nd ref="6726388310"/>
+    <nd ref="5273050167"/>
+    <nd ref="6726388311"/>
+    <nd ref="9865078029"/>
+    <nd ref="6637164826"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="320343169">
+    <nd ref="2398081993"/>
+    <nd ref="6385598147"/>
+    <nd ref="6385598130"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Munshi Ram Sethi Marg"/>
+  </way>
+  <way id="380042582">
+    <nd ref="3833894261"/>
+    <nd ref="3833894262"/>
+    <nd ref="3833894263"/>
+    <nd ref="3833894264"/>
+    <nd ref="3833894261"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="380042583">
+    <nd ref="3833894265"/>
+    <nd ref="3833894266"/>
+    <nd ref="3833894267"/>
+    <nd ref="3833894268"/>
+    <nd ref="3833894265"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="544708856">
+    <nd ref="5265277930"/>
+    <nd ref="5265277787"/>
+    <nd ref="5265277933"/>
+    <nd ref="5265277785"/>
+    <nd ref="5265277931"/>
+    <nd ref="5834157626"/>
+    <nd ref="5834157625"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="544708857">
+    <nd ref="2397564964"/>
+    <nd ref="5265277931"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Balraj Khanna Marg"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="544708858">
+    <nd ref="5265277932"/>
+    <nd ref="9865078034"/>
+    <nd ref="5265280125"/>
+    <nd ref="5265277936"/>
+    <nd ref="5265277933"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Balraj Khanna Marg"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="544708859">
+    <nd ref="9865078036"/>
+    <nd ref="9865078033"/>
+    <nd ref="9865078032"/>
+    <nd ref="5265277935"/>
+    <nd ref="5265277936"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="544708860">
+    <nd ref="5265277942"/>
+    <nd ref="5265277937"/>
+    <nd ref="5268135727"/>
+    <nd ref="5268135726"/>
+    <nd ref="5268135725"/>
+    <nd ref="5273050167"/>
+    <nd ref="2714309108"/>
+    <nd ref="941021442"/>
+    <nd ref="5265277941"/>
+    <nd ref="5265277932"/>
+    <nd ref="5265277943"/>
+    <nd ref="5265277942"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Rock Garden"/>
+    <tag k="name:ur" v="راک گارڈن"/>
+  </way>
+  <way id="544709342">
+    <nd ref="5265277785"/>
+    <nd ref="9865078053"/>
+    <nd ref="9865078047"/>
+    <nd ref="5265277786"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="544709343">
+    <nd ref="5265277787"/>
+    <nd ref="5265277788"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="544709344">
+    <nd ref="5265277939"/>
+    <nd ref="9865078030"/>
+    <nd ref="6726388309"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="545033597">
+    <nd ref="5265277932"/>
+    <nd ref="5268135730"/>
+    <nd ref="5268135729"/>
+    <nd ref="5265277930"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+  </way>
+  <way id="604707736">
+    <nd ref="5737168034"/>
+    <nd ref="5737167995"/>
+    <nd ref="5737167994"/>
+    <nd ref="5737167993"/>
+    <nd ref="5737167992"/>
+    <nd ref="5737167991"/>
+    <nd ref="5737167990"/>
+    <nd ref="5737167989"/>
+    <nd ref="5737167988"/>
+    <nd ref="5737167987"/>
+    <nd ref="5737167986"/>
+    <nd ref="5737167985"/>
+    <nd ref="5737167984"/>
+    <nd ref="5737167983"/>
+    <nd ref="5737167982"/>
+    <nd ref="5737167981"/>
+    <nd ref="5737167980"/>
+    <nd ref="9938702762"/>
+    <nd ref="9938702760"/>
+    <nd ref="9949411633"/>
+    <nd ref="3953397116"/>
+    <nd ref="5737167979"/>
+    <nd ref="5737167978"/>
+    <nd ref="9938702769"/>
+    <nd ref="9938702767"/>
+    <nd ref="5737167977"/>
+    <nd ref="5737167976"/>
+    <nd ref="5737167975"/>
+    <nd ref="5737167974"/>
+    <nd ref="5737167973"/>
+    <nd ref="5737167972"/>
+    <nd ref="5737167971"/>
+    <nd ref="5737167970"/>
+    <nd ref="5737167969"/>
+    <nd ref="5737167968"/>
+    <nd ref="5737167967"/>
+    <nd ref="5737167966"/>
+    <nd ref="5737167965"/>
+    <nd ref="5737167964"/>
+    <nd ref="5737167963"/>
+    <nd ref="5737167962"/>
+    <nd ref="5737167961"/>
+    <nd ref="5737167960"/>
+    <nd ref="5737167959"/>
+    <nd ref="5737167958"/>
+    <nd ref="5737167957"/>
+    <nd ref="5737167956"/>
+    <nd ref="5737167955"/>
+    <nd ref="5737167954"/>
+    <nd ref="5737167953"/>
+    <nd ref="5737167952"/>
+    <nd ref="5737167951"/>
+    <nd ref="5737167950"/>
+    <nd ref="5737167949"/>
+    <nd ref="5737167948"/>
+    <nd ref="5737167947"/>
+    <nd ref="5737167946"/>
+    <nd ref="5737167945"/>
+    <nd ref="5737167944"/>
+    <nd ref="5737167943"/>
+    <nd ref="5737167942"/>
+    <nd ref="5737167941"/>
+    <nd ref="5737167940"/>
+    <nd ref="5737167939"/>
+    <nd ref="5737167938"/>
+    <nd ref="5737167937"/>
+    <nd ref="5737167936"/>
+    <nd ref="5737167935"/>
+    <nd ref="5737167934"/>
+    <nd ref="5737167933"/>
+    <nd ref="5737167932"/>
+    <nd ref="5737167931"/>
+    <nd ref="5737167930"/>
+    <nd ref="5737167929"/>
+    <nd ref="5737167928"/>
+    <nd ref="5737167927"/>
+    <nd ref="5737167926"/>
+    <nd ref="5737167925"/>
+    <nd ref="5737167924"/>
+    <nd ref="5737167923"/>
+    <nd ref="5737167922"/>
+    <nd ref="5737167921"/>
+    <nd ref="5737167720"/>
+    <nd ref="5737167719"/>
+    <nd ref="5737167718"/>
+    <nd ref="5737167717"/>
+    <nd ref="5737167716"/>
+    <nd ref="5737167715"/>
+    <nd ref="5737167714"/>
+    <nd ref="5737167713"/>
+    <nd ref="6636540478"/>
+    <nd ref="5737167712"/>
+    <nd ref="9699741669"/>
+    <nd ref="5737167711"/>
+    <nd ref="5737167710"/>
+    <nd ref="5737167709"/>
+    <nd ref="5737167708"/>
+    <nd ref="5737167707"/>
+    <nd ref="5737167706"/>
+    <nd ref="5737167705"/>
+    <nd ref="5737167704"/>
+    <nd ref="5737167703"/>
+    <nd ref="5737167702"/>
+    <nd ref="5737167701"/>
+    <nd ref="5737167700"/>
+    <nd ref="5737167699"/>
+    <nd ref="5737167698"/>
+    <nd ref="5737167697"/>
+    <nd ref="5737167696"/>
+    <nd ref="5737167695"/>
+    <nd ref="5737167694"/>
+    <nd ref="5737167693"/>
+    <nd ref="5737167692"/>
+    <nd ref="5737167691"/>
+    <nd ref="5737167690"/>
+    <nd ref="5737167689"/>
+    <nd ref="5737167688"/>
+    <nd ref="5737167687"/>
+    <nd ref="5737167686"/>
+    <nd ref="5737167685"/>
+    <nd ref="5737167684"/>
+    <nd ref="5737167683"/>
+    <nd ref="5737167682"/>
+    <nd ref="5737167681"/>
+    <nd ref="5737167680"/>
+    <nd ref="5737167679"/>
+    <nd ref="5737167678"/>
+    <nd ref="5737167677"/>
+    <nd ref="5737167676"/>
+    <nd ref="5737167675"/>
+    <nd ref="5737167674"/>
+    <nd ref="5737167673"/>
+    <nd ref="5737167672"/>
+    <nd ref="5737167671"/>
+    <nd ref="5737167670"/>
+    <nd ref="5737167669"/>
+    <nd ref="5737167668"/>
+    <nd ref="5737167667"/>
+    <nd ref="5737167666"/>
+    <nd ref="5737167665"/>
+    <nd ref="5737167664"/>
+    <nd ref="5737167663"/>
+    <nd ref="5737167662"/>
+    <nd ref="5737167661"/>
+    <nd ref="5737167660"/>
+    <nd ref="5737167659"/>
+    <nd ref="5737167658"/>
+    <nd ref="5737167657"/>
+    <nd ref="5737167656"/>
+    <nd ref="5737167655"/>
+    <nd ref="5737167654"/>
+    <nd ref="5737167653"/>
+    <nd ref="5737167652"/>
+    <nd ref="5737167651"/>
+    <nd ref="5737167650"/>
+    <nd ref="5737167649"/>
+    <nd ref="5737167648"/>
+    <nd ref="5737167647"/>
+    <nd ref="5737167646"/>
+    <nd ref="5737167645"/>
+    <nd ref="5737167644"/>
+    <nd ref="5737167643"/>
+    <nd ref="5737167642"/>
+    <nd ref="5737167641"/>
+    <nd ref="5737167640"/>
+    <nd ref="5737167639"/>
+    <nd ref="5737167638"/>
+    <nd ref="5737167637"/>
+    <nd ref="5737167636"/>
+    <nd ref="5737167635"/>
+    <nd ref="5737167634"/>
+    <nd ref="5737167633"/>
+    <nd ref="5737167632"/>
+    <nd ref="5737167631"/>
+    <nd ref="5737167630"/>
+    <nd ref="5737167629"/>
+    <nd ref="5737167628"/>
+    <nd ref="5737167627"/>
+    <nd ref="5737167626"/>
+    <nd ref="5737167625"/>
+    <nd ref="5737167624"/>
+    <nd ref="5737167623"/>
+    <nd ref="5737167622"/>
+    <nd ref="5737167621"/>
+    <nd ref="5737167220"/>
+    <nd ref="5737167219"/>
+    <nd ref="5737167218"/>
+    <nd ref="5737167217"/>
+    <nd ref="5737167216"/>
+    <nd ref="5737167215"/>
+    <nd ref="5737167214"/>
+    <nd ref="5737167213"/>
+    <nd ref="5737167212"/>
+    <nd ref="5737167211"/>
+    <nd ref="8491223810"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="colour" v="#1e90ff"/>
+    <tag k="electrified" v="contact_line"/>
+    <tag k="frequency" v="50"/>
+    <tag k="gauge" v="1676"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="Blue Line"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="railway" v="subway"/>
+    <tag k="voltage" v="25000"/>
+  </way>
+  <way id="617157966">
+    <nd ref="5834157604"/>
+    <nd ref="5834157601"/>
+    <nd ref="5834157602"/>
+    <nd ref="5834157603"/>
+    <nd ref="5834157604"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="617157967">
+    <nd ref="5834157608"/>
+    <nd ref="5834157605"/>
+    <nd ref="5834157606"/>
+    <nd ref="5834157607"/>
+    <nd ref="5834157608"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="617157968">
+    <nd ref="5834157612"/>
+    <nd ref="5834157609"/>
+    <nd ref="5834157610"/>
+    <nd ref="5834157611"/>
+    <nd ref="5834157612"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="617157969">
+    <nd ref="5834157616"/>
+    <nd ref="5834157613"/>
+    <nd ref="5834157614"/>
+    <nd ref="5834157615"/>
+    <nd ref="5834157616"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="681862999">
+    <nd ref="3268515075"/>
+    <nd ref="6731683181"/>
+    <nd ref="9854907504"/>
+    <nd ref="6731683176"/>
+    <nd ref="9854907507"/>
+    <nd ref="9854907506"/>
+    <nd ref="9854907505"/>
+    <nd ref="6731683172"/>
+    <nd ref="3268515076"/>
+    <nd ref="10248622322"/>
+    <nd ref="9854907501"/>
+    <nd ref="9854907503"/>
+    <nd ref="9854907502"/>
+    <nd ref="9805355412"/>
+    <nd ref="3268515077"/>
+    <nd ref="9854907499"/>
+    <nd ref="9854907500"/>
+    <nd ref="3268515078"/>
+    <nd ref="9854907497"/>
+    <nd ref="9854907498"/>
+    <nd ref="9854943526"/>
+    <nd ref="3268515079"/>
+    <nd ref="6657074105"/>
+    <nd ref="3268515069"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="706561232">
+    <nd ref="6639560457"/>
+    <nd ref="9855079457"/>
+    <nd ref="6639560462"/>
+    <nd ref="9855079459"/>
+    <nd ref="6639560461"/>
+    <nd ref="9855079460"/>
+    <nd ref="9855079461"/>
+    <nd ref="6639560460"/>
+    <nd ref="9855079462"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="715736901">
+    <nd ref="5265277930"/>
+    <nd ref="9865078031"/>
+    <nd ref="5265277939"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="716405864">
+    <nd ref="6726388309"/>
+    <nd ref="9865078059"/>
+    <nd ref="6734870083"/>
+    <nd ref="5265277789"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="716663879">
+    <nd ref="6731685885"/>
+    <nd ref="6731683184"/>
+    <nd ref="6731683183"/>
+    <nd ref="6731683182"/>
+    <nd ref="6731683181"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="717084275">
+    <nd ref="6734870071"/>
+    <nd ref="5273050167"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="717084276">
+    <nd ref="6734870074"/>
+    <nd ref="6734870072"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="717084277">
+    <nd ref="6734870073"/>
+    <nd ref="6734870074"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="717084278">
+    <nd ref="6734870074"/>
+    <nd ref="6734870076"/>
+    <nd ref="6734870075"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="717084279">
+    <nd ref="6734870078"/>
+    <nd ref="6734870075"/>
+    <nd ref="6734870077"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="717084280">
+    <nd ref="6734870079"/>
+    <nd ref="6726388312"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="717084281">
+    <nd ref="6734870081"/>
+    <nd ref="6734870082"/>
+    <nd ref="6734870076"/>
+    <nd ref="6734870080"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="717084282">
+    <nd ref="6734870083"/>
+    <nd ref="6734870072"/>
+    <nd ref="6734870071"/>
+    <nd ref="6734870082"/>
+    <nd ref="6734870079"/>
+    <nd ref="6734870078"/>
+    <nd ref="6637164819"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1035763354">
+    <nd ref="6385598130"/>
+    <nd ref="3268515075"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1035763355">
+    <nd ref="915232321"/>
+    <nd ref="9867800445"/>
+    <nd ref="915232192"/>
+    <nd ref="915232228"/>
+    <nd ref="9855036780"/>
+    <nd ref="6385598116"/>
+    <nd ref="2445987680"/>
+    <nd ref="9855049055"/>
+    <nd ref="9679740911"/>
+    <nd ref="2398083982"/>
+    <nd ref="9542979282"/>
+    <nd ref="6385598130"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Patel Road"/>
+    <tag k="name:etymology:wikidata" v="Q9455"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1050145547">
+    <nd ref="9650647189"/>
+    <nd ref="9650647190"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="1050145548">
+    <nd ref="9650647191"/>
+    <nd ref="5265277786"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="1050145549">
+    <nd ref="2398083981"/>
+    <nd ref="9650647192"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1050145550">
+    <nd ref="9650647193"/>
+    <nd ref="9650647194"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="1050145551">
+    <nd ref="9650647195"/>
+    <nd ref="9650647196"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="1050145552">
+    <nd ref="9855068369"/>
+    <nd ref="9855068368"/>
+    <nd ref="9855068367"/>
+    <nd ref="9855068366"/>
+    <nd ref="9855068365"/>
+    <nd ref="9650647197"/>
+    <nd ref="9650647198"/>
+    <nd ref="9650647199"/>
+    <nd ref="9855068374"/>
+    <nd ref="9650647200"/>
+    <nd ref="9650647201"/>
+    <nd ref="9650647202"/>
+    <nd ref="9650647203"/>
+    <nd ref="9650647204"/>
+    <nd ref="9855068372"/>
+    <nd ref="9650647205"/>
+    <nd ref="9855068373"/>
+    <nd ref="9650647206"/>
+    <nd ref="9650647207"/>
+    <nd ref="9650647208"/>
+    <nd ref="9855068371"/>
+    <nd ref="9855068370"/>
+    <nd ref="9650647209"/>
+    <tag k="highway" v="service"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="1074425309">
+    <nd ref="9650647209"/>
+    <nd ref="9855068369"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="1075653171">
+    <nd ref="9865078068"/>
+    <nd ref="9865078067"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="1076053842">
+    <nd ref="9855079462"/>
+    <nd ref="6639560459"/>
+    <nd ref="9855079454"/>
+    <nd ref="9855079455"/>
+    <nd ref="6639560458"/>
+    <nd ref="9855079456"/>
+    <nd ref="9855079458"/>
+    <nd ref="6639560457"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1121695415">
+    <nd ref="2637094990"/>
+    <nd ref="11056086646"/>
+    <nd ref="9855028787"/>
+    <nd ref="9855028782"/>
+    <nd ref="3268515075"/>
+    <nd ref="9542979281"/>
+    <nd ref="6657074106"/>
+    <nd ref="10272948708"/>
+    <nd ref="9855000977"/>
+    <nd ref="9567713782"/>
+    <nd ref="10272948698"/>
+    <nd ref="10272948696"/>
+    <nd ref="9854954712"/>
+    <nd ref="10272948695"/>
+    <nd ref="6385598123"/>
+    <nd ref="6225764860"/>
+    <nd ref="915232255"/>
+    <nd ref="6763955902"/>
+    <nd ref="6763955896"/>
+    <nd ref="915232210"/>
+    <nd ref="915232333"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Patel Road"/>
+    <tag k="name:etymology:wikidata" v="Q9455"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <relation id="447209">
+    <member type="node" ref="6325711755" role="stop"/>
+    <member type="node" ref="5777613716" role="stop"/>
+    <member type="node" ref="5777613718" role="stop"/>
+    <member type="node" ref="5777613720" role="stop"/>
+    <member type="node" ref="5777613736" role="stop"/>
+    <member type="node" ref="5777613740" role="stop"/>
+    <member type="node" ref="5777613746" role="stop"/>
+    <member type="node" ref="5777613749" role="stop"/>
+    <member type="node" ref="5777613864" role="stop"/>
+    <member type="node" ref="5777613870" role="stop"/>
+    <member type="node" ref="5777613877" role="stop"/>
+    <member type="node" ref="5777613883" role="stop"/>
+    <member type="node" ref="5777613898" role="stop"/>
+    <member type="node" ref="5777613909" role="stop"/>
+    <member type="node" ref="5777613919" role="stop"/>
+    <member type="node" ref="5777613940" role="stop"/>
+    <member type="node" ref="6537317882" role="stop"/>
+    <member type="node" ref="554257831" role="stop"/>
+    <member type="node" ref="554257824" role="stop"/>
+    <member type="node" ref="554257827" role="stop"/>
+    <member type="node" ref="554257839" role="stop"/>
+    <member type="node" ref="939091076" role="stop"/>
+    <member type="node" ref="554257820" role="stop"/>
+    <member type="node" ref="345234443" role="stop"/>
+    <member type="node" ref="6547772123" role="stop"/>
+    <member type="node" ref="345234440" role="stop"/>
+    <member type="node" ref="6547772115" role="stop"/>
+    <member type="node" ref="6547772114" role="stop"/>
+    <member type="node" ref="6547772113" role="stop"/>
+    <member type="node" ref="6547772112" role="stop"/>
+    <member type="node" ref="6547772111" role="stop"/>
+    <member type="node" ref="249823630" role="stop"/>
+    <member type="node" ref="663798999" role="stop"/>
+    <member type="node" ref="610886106" role="stop"/>
+    <member type="node" ref="347677816" role="stop"/>
+    <member type="node" ref="913550169" role="stop"/>
+    <member type="node" ref="347685192" role="stop"/>
+    <member type="node" ref="347685176" role="stop"/>
+    <member type="node" ref="249823566" role="stop"/>
+    <member type="node" ref="249823558" role="stop"/>
+    <member type="node" ref="249823552" role="stop"/>
+    <member type="node" ref="249235048" role="stop"/>
+    <member type="node" ref="249823531" role="stop"/>
+    <member type="node" ref="249235042" role="stop"/>
+    <member type="node" ref="249235041" role="stop"/>
+    <member type="node" ref="347688420" role="stop"/>
+    <member type="node" ref="347688434" role="stop"/>
+    <member type="node" ref="347688615" role="stop"/>
+    <member type="node" ref="347688730" role="stop"/>
+    <member type="node" ref="347688731" role="stop"/>
+    <member type="way" ref="610023998" role=""/>
+    <member type="way" ref="610024000" role=""/>
+    <member type="way" ref="1192568770" role=""/>
+    <member type="way" ref="1192568768" role=""/>
+    <member type="way" ref="610024005" role=""/>
+    <member type="way" ref="610024003" role=""/>
+    <member type="way" ref="77004696" role=""/>
+    <member type="way" ref="610024029" role=""/>
+    <member type="way" ref="1178258945" role=""/>
+    <member type="way" ref="77006076" role=""/>
+    <member type="way" ref="43766190" role=""/>
+    <member type="way" ref="695925443" role=""/>
+    <member type="way" ref="52082767" role=""/>
+    <member type="way" ref="914114472" role=""/>
+    <member type="way" ref="164931219" role=""/>
+    <member type="way" ref="31266154" role=""/>
+    <member type="way" ref="893778027" role=""/>
+    <member type="way" ref="188240586" role=""/>
+    <member type="way" ref="1001138452" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Blue Line (Noida Electronic City --&gt; Dwarka Sector 21)"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="network:wikidata" v="Q271195"/>
+    <tag k="network:wikipedia" v="hi:दिल्ली मेट्रो"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="operator:wikidata" v="Q1029339"/>
+    <tag k="operator:wikipedia" v="en:Delhi Metro Rail Corporation"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="Blue Line"/>
+    <tag k="route" v="subway"/>
+    <tag k="type" v="route"/>
+    <tag k="wikidata" v="Q1029921"/>
+  </relation>
+  <relation id="3717707">
+    <member type="way" ref="291719145" role="outer"/>
+    <member type="way" ref="279501943" role="outer"/>
+    <member type="way" ref="544709344" role="outer"/>
+    <member type="way" ref="715736901" role="outer"/>
+    <member type="way" ref="545033597" role="outer"/>
+    <member type="way" ref="279501942" role="outer"/>
+    <member type="way" ref="1220451327" role="outer"/>
+    <member type="way" ref="1220451326" role="outer"/>
+    <member type="way" ref="1220451325" role="outer"/>
+    <member type="way" ref="265804045" role="outer"/>
+    <member type="way" ref="279501947" role="outer"/>
+    <member type="way" ref="279501945" role="outer"/>
+    <member type="node" ref="2837341338" role="label"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="East Patel Nagar"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="3717708">
+    <member type="way" ref="1220451327" role="outer"/>
+    <member type="way" ref="1220451326" role="outer"/>
+    <member type="way" ref="1220451325" role="outer"/>
+    <member type="way" ref="279507308" role="outer"/>
+    <member type="way" ref="279507309" role="outer"/>
+    <member type="way" ref="291719148" role="outer"/>
+    <member type="way" ref="291719147" role="outer"/>
+    <member type="way" ref="1220451328" role="outer"/>
+    <member type="way" ref="291719145" role="outer"/>
+    <member type="way" ref="279501943" role="outer"/>
+    <member type="way" ref="544709344" role="outer"/>
+    <member type="way" ref="715736901" role="outer"/>
+    <member type="way" ref="545033597" role="outer"/>
+    <member type="way" ref="279501942" role="outer"/>
+    <member type="node" ref="2837341339" role="label"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="description" v="⚡️𝕽𝖆𝖓𝖌चित्रण - RANGCHITRAN ONLINE ART COMPETITION FOR KIDS, JOIN NOW WHATSAPP NO. 09650462136 &#x0a;https://www.rangchitran.in"/>
+    <tag k="image" v="https://contest.modelncharts.com/img/rangchitran-logo.png"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="West Patel Nagar"/>
+    <tag k="type" v="boundary"/>
+    <tag k="website" v="https://www.rangchitran.in"/>
+  </relation>
+  <relation id="3873778">
+    <member type="way" ref="291715316" role="outer"/>
+    <member type="way" ref="291715313" role="outer"/>
+    <member type="way" ref="291715318" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="fixme" v="Name?"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="8037669">
+    <member type="node" ref="5737167202" role="stop"/>
+    <member type="node" ref="5737168005" role="stop"/>
+    <member type="node" ref="5737168016" role="stop"/>
+    <member type="node" ref="5737168024" role="stop"/>
+    <member type="node" ref="7661805973" role="stop"/>
+    <member type="node" ref="5737168034" role="stop"/>
+    <member type="node" ref="5737167995" role="stop"/>
+    <member type="node" ref="5737167992" role="stop"/>
+    <member type="node" ref="5737167978" role="stop"/>
+    <member type="node" ref="5737167960" role="stop"/>
+    <member type="node" ref="5737167949" role="stop"/>
+    <member type="node" ref="5737167941" role="stop"/>
+    <member type="node" ref="5737167932" role="stop"/>
+    <member type="node" ref="5737167717" role="stop"/>
+    <member type="node" ref="5737167711" role="stop"/>
+    <member type="node" ref="5737167703" role="stop"/>
+    <member type="node" ref="5737167695" role="stop"/>
+    <member type="node" ref="5737167688" role="stop"/>
+    <member type="node" ref="5737167679" role="stop"/>
+    <member type="node" ref="5737167671" role="stop"/>
+    <member type="node" ref="5737167663" role="stop"/>
+    <member type="node" ref="5737167649" role="stop"/>
+    <member type="node" ref="5737167642" role="stop"/>
+    <member type="node" ref="5737167640" role="stop"/>
+    <member type="node" ref="5737167628" role="stop"/>
+    <member type="node" ref="5737167627" role="stop"/>
+    <member type="node" ref="5737167621" role="stop"/>
+    <member type="node" ref="5737167211" role="stop"/>
+    <member type="node" ref="6539894853" role="stop"/>
+    <member type="node" ref="5737167209" role="stop"/>
+    <member type="node" ref="5737167205" role="stop"/>
+    <member type="node" ref="5737167195" role="stop"/>
+    <member type="node" ref="5737167185" role="stop"/>
+    <member type="node" ref="5737168028" role="stop"/>
+    <member type="node" ref="906780885" role="stop"/>
+    <member type="node" ref="906772268" role="stop"/>
+    <member type="node" ref="906780869" role="stop"/>
+    <member type="node" ref="1869899247" role="stop"/>
+    <member type="node" ref="906772185" role="stop"/>
+    <member type="node" ref="915595467" role="stop"/>
+    <member type="node" ref="915595437" role="stop"/>
+    <member type="node" ref="915595446" role="stop"/>
+    <member type="node" ref="915595409" role="stop"/>
+    <member type="node" ref="915595470" role="stop"/>
+    <member type="node" ref="4267878878" role="stop"/>
+    <member type="node" ref="4267878879" role="stop"/>
+    <member type="node" ref="4267878881" role="stop"/>
+    <member type="node" ref="4267878880" role="stop"/>
+    <member type="node" ref="4267878882" role="stop"/>
+    <member type="node" ref="6325711756" role="stop"/>
+    <member type="way" ref="1001138451" role=""/>
+    <member type="way" ref="1212227771" role=""/>
+    <member type="way" ref="893778028" role=""/>
+    <member type="way" ref="604707748" role=""/>
+    <member type="way" ref="604707736" role=""/>
+    <member type="way" ref="914114473" role=""/>
+    <member type="way" ref="604707732" role=""/>
+    <member type="way" ref="695925444" role=""/>
+    <member type="way" ref="604707724" role=""/>
+    <member type="way" ref="604707717" role=""/>
+    <member type="way" ref="1187375095" role=""/>
+    <member type="way" ref="695932026" role=""/>
+    <member type="way" ref="1187375098" role=""/>
+    <member type="way" ref="1178262030" role=""/>
+    <member type="way" ref="1178262031" role=""/>
+    <member type="way" ref="139071686" role=""/>
+    <member type="way" ref="139071687" role=""/>
+    <member type="way" ref="210933925" role=""/>
+    <member type="way" ref="855461481" role=""/>
+    <member type="way" ref="1192568767" role=""/>
+    <member type="way" ref="1192568769" role=""/>
+    <member type="way" ref="427589714" role=""/>
+    <member type="way" ref="383657723" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Blue Line (Dwarka Sector 21 --&gt; Noida Electronic City)"/>
+    <tag k="network" v="Delhi Metro"/>
+    <tag k="network:wikidata" v="Q271195"/>
+    <tag k="note" v="Contributors are requested to not edit the &quot;network&quot; and the &quot;operator&quot; tags. (2023/06/22)"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation Limited"/>
+    <tag k="operator:wikidata" v="Q1029339"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="Blue Line"/>
+    <tag k="route" v="subway"/>
+    <tag k="type" v="route"/>
+    <tag k="wikidata" v="Q1029921"/>
+  </relation>
+  <relation id="8076949">
+    <member type="node" ref="347676531" role=""/>
+    <member type="node" ref="3818760640" role=""/>
+    <member type="way" ref="320343164" role=""/>
+    <member type="node" ref="5737167649" role=""/>
+    <member type="node" ref="6547772113" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Kirti Nagar (Blue Line)"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300340">
+    <member type="node" ref="6539894850" role=""/>
+    <member type="node" ref="5737167211" role="stop"/>
+    <member type="node" ref="554257820" role="stop"/>
+    <member type="node" ref="2102480835" role=""/>
+    <member type="way" ref="200251449" role=""/>
+    <member type="node" ref="3171969268" role=""/>
+    <member type="way" ref="200251459" role=""/>
+    <member type="node" ref="3171969269" role=""/>
+    <member type="way" ref="200251460" role=""/>
+    <member type="way" ref="200251455" role=""/>
+    <member type="node" ref="3171969270" role=""/>
+    <member type="node" ref="3171969271" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Ramakrishna Ashram Marg"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300341">
+    <member type="node" ref="6539894849" role=""/>
+    <member type="node" ref="5737167621" role="stop"/>
+    <member type="node" ref="345234443" role="stop"/>
+    <member type="node" ref="3818760630" role=""/>
+    <member type="node" ref="3818760631" role=""/>
+    <member type="node" ref="6053796782" role=""/>
+    <member type="node" ref="6053795913" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Jhandewalan"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300342">
+    <member type="node" ref="345234441" role="stop"/>
+    <member type="node" ref="3818760627" role=""/>
+    <member type="node" ref="3818760629" role=""/>
+    <member type="node" ref="5737167627" role="stop"/>
+    <member type="node" ref="6547772123" role="stop"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Karol Bagh"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300343">
+    <member type="node" ref="5781445033" role=""/>
+    <member type="node" ref="5737167628" role="stop"/>
+    <member type="node" ref="345234440" role="stop"/>
+    <member type="node" ref="3818760625" role=""/>
+    <member type="node" ref="3818760624" role=""/>
+    <member type="node" ref="5758573848" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Rajendra Place"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300344">
+    <member type="node" ref="3818760633" role=""/>
+    <member type="node" ref="268217229" role="stop"/>
+    <member type="node" ref="3818760632" role=""/>
+    <member type="node" ref="5737167640" role="stop"/>
+    <member type="node" ref="6547772115" role="stop"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Patel Nagar (East)"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300345">
+    <member type="node" ref="347676595" role="stop"/>
+    <member type="node" ref="3818760637" role=""/>
+    <member type="node" ref="3818760636" role=""/>
+    <member type="node" ref="6764023863" role=""/>
+    <member type="node" ref="9542979284" role=""/>
+    <member type="node" ref="5737167642" role=""/>
+    <member type="node" ref="6547772114" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Shadipur"/>
+    <tag k="name:ur" v="شادی پور"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300346">
+    <member type="node" ref="347676947" role="stop"/>
+    <member type="node" ref="3818760642" role=""/>
+    <member type="node" ref="3818760641" role=""/>
+    <member type="node" ref="5737167663" role="stop"/>
+    <member type="node" ref="6547772112" role="stop"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Moti Nagar"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300347">
+    <member type="node" ref="3818760639" role=""/>
+    <member type="node" ref="249823635" role=""/>
+    <member type="node" ref="3818760638" role=""/>
+    <member type="node" ref="5737167671" role="stop"/>
+    <member type="node" ref="6547772111" role="stop"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Ramesh Nagar"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300348">
+    <member type="node" ref="6453992649" role=""/>
+    <member type="node" ref="5737167679" role="stop"/>
+    <member type="node" ref="249823630" role="stop"/>
+    <member type="node" ref="3818760635" role=""/>
+    <member type="node" ref="3818760634" role=""/>
+    <member type="node" ref="6763880406" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Rajouri Garden (Blue Line)"/>
+    <tag k="name:hi" v="राजौरी गार्डन"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300349">
+    <member type="node" ref="6548798521" role=""/>
+    <member type="node" ref="663798999" role="stop"/>
+    <member type="node" ref="5737167688" role="stop"/>
+    <member type="node" ref="3818760628" role=""/>
+    <member type="node" ref="3818760626" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Tagore Garden"/>
+    <tag k="name:hi" v="टैगोर गार्डन"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300350">
+    <member type="node" ref="6548798520" role=""/>
+    <member type="node" ref="5737167695" role="stop"/>
+    <member type="node" ref="610886106" role="stop"/>
+    <member type="node" ref="3818749888" role=""/>
+    <member type="node" ref="3818749887" role=""/>
+    <member type="node" ref="6385735818" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Subhash Nagar"/>
+    <tag k="name:hi" v="सुभाष नगर"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300351">
+    <member type="node" ref="6548798518" role=""/>
+    <member type="node" ref="5737167711" role="stop"/>
+    <member type="node" ref="913550169" role="stop"/>
+    <member type="node" ref="3818749885" role=""/>
+    <member type="node" ref="3818749886" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Janakpuri East"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300352">
+    <member type="node" ref="6541854249" role=""/>
+    <member type="node" ref="5737167717" role="stop"/>
+    <member type="node" ref="347685192" role="stop"/>
+    <member type="node" ref="3818749884" role="entrance"/>
+    <member type="node" ref="3818749883" role="entrance"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Janakpuri West (Blue Line)"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300353">
+    <member type="node" ref="6541854250" role=""/>
+    <member type="node" ref="5737167932" role="stop"/>
+    <member type="node" ref="347685176" role="stop"/>
+    <member type="node" ref="3818749882" role=""/>
+    <member type="node" ref="3818749881" role=""/>
+    <member type="node" ref="5695691746" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Uttam Nagar East"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300354">
+    <member type="node" ref="6541854251" role="stop"/>
+    <member type="node" ref="5737167941" role="stop"/>
+    <member type="node" ref="249823566" role="stop"/>
+    <member type="node" ref="3818749879" role=""/>
+    <member type="node" ref="3818749880" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Uttam Nagar West"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300355">
+    <member type="node" ref="6541854252" role=""/>
+    <member type="node" ref="5737167949" role="stop"/>
+    <member type="node" ref="249823558" role="stop"/>
+    <member type="node" ref="3818749878" role=""/>
+    <member type="node" ref="3818749877" role=""/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Nawada"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="8300356">
+    <member type="node" ref="6541854253" role=""/>
+    <member type="node" ref="5737167960" role="stop"/>
+    <member type="node" ref="249823552" role="stop"/>
+    <member type="node" ref="3818749876" role="entrance"/>
+    <member type="node" ref="3818749875" role="entrance"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Dwarka Mor"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="9679119">
+    <member type="node" ref="6539894848" role=""/>
+    <member type="node" ref="5737168034" role="stop"/>
+    <member type="node" ref="249235041" role="stop"/>
+    <member type="node" ref="9942419062" role="entrance"/>
+    <member type="node" ref="9942419061" role="entrance"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Dwarka Sector 12"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="9681201">
+    <member type="node" ref="5737167978" role="stop"/>
+    <member type="node" ref="249235048" role="stop"/>
+    <member type="way" ref="1084574762" role="platform"/>
+    <member type="way" ref="1084574763" role="platform"/>
+    <member type="node" ref="6541854255" role=""/>
+    <member type="way" ref="1084574764" role="platform"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Dwarka (Blue Line)"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="9681202">
+    <member type="node" ref="6541854256" role=""/>
+    <member type="node" ref="5737167992" role="stop"/>
+    <member type="node" ref="249823531" role="stop"/>
+    <member type="node" ref="9942419057" role="entrance"/>
+    <member type="node" ref="9942419058" role="entrance"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Dwarka Sector 14"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="9681203">
+    <member type="node" ref="6541854257" role=""/>
+    <member type="node" ref="249235042" role="stop"/>
+    <member type="node" ref="5737167995" role="stop"/>
+    <member type="node" ref="9942419060" role="entrance"/>
+    <member type="node" ref="9942419059" role="entrance"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Dwarka Sector 13"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="9690722">
+    <member type="node" ref="6548798519" role=""/>
+    <member type="node" ref="347677816" role="stop"/>
+    <member type="node" ref="5737167703" role="stop"/>
+    <tag k="colour" v="#4169E1"/>
+    <tag k="name" v="Tilak Nagar"/>
+    <tag k="name:hi" v="तिलक नगर"/>
+    <tag k="network" v="DMRC"/>
+    <tag k="operator" v="Delhi Metro Rail Corporation"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="13871031">
+    <member type="way" ref="1035763355" role="from"/>
+    <member type="node" ref="6385598130" role="via"/>
+    <member type="way" ref="1035763354" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+
+</osm>

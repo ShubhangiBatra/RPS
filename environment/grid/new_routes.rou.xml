@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-05-11 17:05:02 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Routes -->
+
+    <vType id="ev" color="red">
+        <param key="has.battery.device" value="true"/>
+    </vType>
+
+    <route id="r_0" edges="A9B9 B9B8 B8C8 C8D8 D8D7 D7E7 E7E6 E6F6 F6F5 F5G5 G5G4 G4H4 H4H3 H3I3 I3I2 I2J2"/>
+    <route id="r_1" edges="A8B8 B8B9 B9C9 C9C8 C8C7 C7D7 D7D6 D6E6 E6F6 F6F5 F5G5 G5H5 H5H6 H6I6 I6I7 I7J7"/>
+    <route id="r_2" edges="J9I9 I9I8 I8H8 H8H7 H7G7 G7F7 F7F8 F8E8 E8E7 E7D7 D7D6 D6C6 C6C5 C5B5 B5B4 B4A4"/>
+    <route id="r_3" edges="A6B6 B6B5 B5C5 C5D5 D5D4 D4E4 E4E3 E3F3 F3G3 G3G2 G2G1 G1H1 H1H0 H0I0 I0J0"/>
+    <route id="r_4" edges="A3B3 B3B2 B2C2 C2C1 C1D1 D1D2 D2E2 E2E1 E1F1 F1F2 F2G2 G2H2 H2H1 H1I1 I1I0 I0J0"/>
+    <route id="r_5" edges="J6I6 I6I5 I5H5 H5H4 H4G4 G4G3 G3F3 F3F2 F2E2 E2E3 E3D3 D3C3 C3C2 C2B2 B2B3 B3A3"/>
+    <route id="r_6" edges="A7B7 B7B6 B6C6 C6D6 D6D5 D5E5 E5E4 E4F4 F4G4 G4G3 G3H3 H3H2 H2I2 I2I1 I1J1"/>
+    <route id="r_7" edges="J4I4 I4H4 H4H5 H5G5 G5G6 G6F6 F6F7 F7E7 E7E8 E8D8 D8D9 D9C9 C9B9 B9A9"/>
+    <route id="r_8" edges="A2B2 B2B1 B1C1 C1C2 C2D2 D2D1 D1E1 E1E0 E0F0 F0F1 F1G1 G1G0 G0H0 H0H1 H1I1 I1I2 I2I3 I3J3"/>
+    <route id="r_9" edges="J8I8 I8I9 I9H9 H9H8 H8G8 G8G7 G7F7 F7F6 F6E6 E6E5 E5D5 D5D4 D4C4 C4C5 C5B5 B5B4 B4A4"/>
+</routes>

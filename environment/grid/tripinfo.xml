@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-06-08 08:22:57 by Eclipse SUMO sumo Version 1.20.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="environment/grid/MySUMOFile.net.xml"/>
+        <route-files value="environment/grid/new_routes.rou.xml"/>
+        <additional-files value="environment/grid/new_charging.add.xml"/>
+    </input>
+
+    <output>
+        <battery-output value="environment/grid/battery.out.xml"/>
+        <battery-output.precision value="2"/>
+        <chargingstations-output value="environment/grid/chargingstations.out.xml"/>
+        <summary-output value="environment/grid/summary_100.xml"/>
+        <tripinfo-output value="environment/grid/tripinfo.xml"/>
+    </output>
+
+    <processing>
+        <waiting-time-memory value="200"/>
+    </processing>
+
+    <report>
+        <no-step-log value="true"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="52109"/>
+    </traci_server>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="v_1" depart="0.00" departLane="A9B9_0" departPos="5.10" departSpeed="0.00" departDelay="0.00" arrival="1488.00" arrivalLane="I2J2_0" arrivalPos="979.20" arrivalSpeed="14.31" duration="1488.00" routeLength="15885.56" waitingTime="2.00" waitingCount="2" stopTime="273.00" timeLoss="127.60" rerouteNo="0" devices="tripinfo_v_1 battery_v_1" vType="ev" speedFactor="1.06" vaporized=""/>
+</tripinfos>

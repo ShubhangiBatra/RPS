@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-03-26 21:24:57 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <!-- <chargingStation id="cs_0" lane="-681862999#1_0" startPos="223.53" endPos="233.53" chargeType="electric" />
+    <chargingStation id="cs_1" lane="231414762#0_0" startPos="14.68" endPos="24.68" chargeType="electric"/>
+    <chargingStation id="cs_10" lane="-716405864#0_0" startPos="25.10" endPos="35.10" chargeType="electric"/> -->
+
+    <chargingStation id="cs_11" lane="231414763#0_0" startPos="179.77" endPos="209.77"  power="10000.00" chargeDelay="10.0">
+        <param key="cost" value="5.5"/>
+        <param key="power" value="10000.00"/>
+    </chargingStation>
+
+    <chargingStation id="cs_15" lane="231414763#1_0" startPos="23.79" endPos="73.79"  power="10000.00" chargeDelay="10.0">
+        <param key="cost" value="6.5"/>
+        <param key="power" value="12000.00"/>
+    </chargingStation>
+
+    <chargingStation id="cs_17" lane="231414763#2_0" startPos="10.31" endPos="60.31"  power="10000.00" chargeDelay="10.0">
+        <param key="cost" value="4.5"/>
+        <param key="power" value="5000.00"/>
+    </chargingStation>
+
+    <chargingStation id="cs_23" lane="231414763#3_0" startPos="6.73" endPos="66.73"  power="10000.00" chargeDelay="10.0">
+        <param key="cost" value="3.5"/>
+        <param key="power" value="8000.00"/>
+    </chargingStation>
+
+    <chargingStation id="cs_6" lane="e1_l1_0" startPos="18.34" endPos="43.34"  power="10000.00" chargeDelay="10.0">
+        <param key="cost" value="7.5"/>
+        <param key="power" value="9000.00"/>
+    </chargingStation>
+
+    <chargingStation id="cs_7" lane="e2_l1_0" startPos="18.38" endPos="43.38"  power="10000.00" chargeDelay="10.0">
+        <param key="cost" value="10"/>
+        <param key="power" value="10000.00"/>
+    </chargingStation>
+    
+    <poly id="279501943" type="landuse.residential" color="235,235,227" fill="0" layer="-3.00" shape="14120.739121,6616.283423 14121.979494,6617.991079 14159.665281,6672.699511 14253.487325,6688.515532 14334.578243,6704.755214 14344.467582,6708.404908"/>
+    <poly id="544709344" type="landuse.residential" color="235,235,227" fill="0" layer="-3.00" shape="14142.365252,6602.085915 14139.829476,6605.476730 14120.739121,6616.283423"/>
+    <poly id="715736901" type="landuse.residential" color="235,235,227" fill="0" layer="-3.00" shape="14129.972383,6571.472893 14142.542244,6597.721034 14142.365252,6602.085915"/>
+</additional>

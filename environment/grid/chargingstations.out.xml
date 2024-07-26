@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-07-26 16:33:26 by Eclipse SUMO sumo Version 1.12.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="environment/grid/MySUMOFile.net.xml"/>
+        <route-files value="environment/grid/new_routes.rou.xml"/>
+        <additional-files value="environment/grid/new_charging.add.xml"/>
+    </input>
+
+    <output>
+        <battery-output value="environment/grid/battery.out.xml"/>
+        <battery-output.precision value="2"/>
+        <chargingstations-output value="environment/grid/chargingstations.out.xml"/>
+        <summary-output value="environment/grid/summary_100.xml"/>
+    </output>
+
+    <processing>
+        <waiting-time-memory value="200"/>
+    </processing>
+
+    <report>
+        <no-step-log value="true"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="33483"/>
+    </traci_server>
+
+</configuration>

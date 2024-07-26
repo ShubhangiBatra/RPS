@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-03-14 13:42:21 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <chargingStation id="cs_0" lane="-681862999#1_0" startPos="223.53" endPos="233.53" chargeType="electric"/>
+    <chargingStation id="cs_1" lane="231414762#0_0" startPos="14.68" endPos="24.68" chargeType="electric"/>
+    <chargingStation id="cs_10" lane="-716405864#0_0" startPos="25.10" endPos="35.10" chargeType="electric"/>
+    <chargingStation id="cs_11" lane="231414763#0_0" startPos="179.77" endPos="189.77" chargeType="electric"/>
+    <chargingStation id="cs_15" lane="231414763#1_0" startPos="23.79" endPos="33.79" chargeType="electric"/>
+    <chargingStation id="cs_17" lane="231414763#2_0" startPos="10.31" endPos="20.31" chargeType="electric"/>
+    <chargingStation id="cs_2" lane="231414762#1_0" startPos="4.79" endPos="14.79" chargeType="electric"/>
+    <chargingStation id="cs_23" lane="231414763#3_0" startPos="6.73" endPos="16.73" chargeType="electric"/>
+    <chargingStation id="cs_25" lane="231414763#4_0" startPos="9.36" endPos="19.36" chargeType="electric"/>
+    <chargingStation id="cs_29" lane="-544708856#5_0" startPos="5.84" endPos="15.84" chargeType="electric"/>
+    <chargingStation id="cs_3" lane="-544709343_0" startPos="82.37" endPos="92.37" chargeType="electric">
+        <param key="capacity" value="2"/>
+        <param key="cost" value="115"/>
+        <param key="ultrafast" value="0"/>
+    </chargingStation>
+    <chargingStation id="cs_4" lane="1050145551_0" startPos="11.77" endPos="21.77" chargeType="electric"/>
+    <chargingStation id="cs_6" lane="231414758#0_0" startPos="18.34" endPos="28.34" chargeType="electric"/>
+    <chargingStation id="cs_7" lane="231414758#1_0" startPos="18.38" endPos="28.38" chargeType="electric"/>
+    <chargingStation id="cs_8" lane="-231415004_0" startPos="59.03" endPos="69.03" chargeType="electric"/>
+    <chargingStation id="cs_9" lane="-1075653171_0" startPos="59.75" endPos="69.75" chargeType="electric"/>
+    <!-- Shapes -->
+    <poly id="279501943" type="landuse.residential" color="235,235,227" fill="0" layer="-3.00" shape="14120.739121,6616.283423 14121.979494,6617.991079 14159.665281,6672.699511 14253.487325,6688.515532 14334.578243,6704.755214 14344.467582,6708.404908"/>
+    <poly id="544709344" type="landuse.residential" color="235,235,227" fill="0" layer="-3.00" shape="14142.365252,6602.085915 14139.829476,6605.476730 14120.739121,6616.283423"/>
+    <poly id="715736901" type="landuse.residential" color="235,235,227" fill="0" layer="-3.00" shape="14129.972383,6571.472893 14142.542244,6597.721034 14142.365252,6602.085915"/>
+</additional>
